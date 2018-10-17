@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<JustCodeSettings Version="0.0" Timestamp="0f378bef-fa15-421d-87fd-4a013fffe146">
+  <IgnoredErrorsAndWarningsSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+    <IgnoredErrorsAndWarnings Version="2">
+      <FilePath>
+        <FileRelativePath>WpfApplication2/MainWindow.xaml.cs</FileRelativePath>
+        <ProjectRelativePath>WpfApplication2/StatsBR.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>6505825396966626702</TextualIdentifier>
+        </IgnoredElement>
+        <IgnoredElement>
+          <TextualIdentifier>9732019412675805501</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+      <FilePath>
+        <FileRelativePath>WpfApplication2/SelectedTablesStruct.cs</FileRelativePath>
+        <ProjectRelativePath>WpfApplication2/StatsBR.csproj</ProjectRelativePath>
+        <IgnoredElement>
+          <TextualIdentifier>9186798176532908334</TextualIdentifier>
+        </IgnoredElement>
+      </FilePath>
+    </IgnoredErrorsAndWarnings>
+  </IgnoredErrorsAndWarningsSettings>
+</JustCodeSettings>

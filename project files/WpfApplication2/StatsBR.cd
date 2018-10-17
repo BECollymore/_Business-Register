@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StatsBR.IRD">
+    <Position X="5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgBAA=</HashCode>
+      <FileName>IRD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatsBR.VAT">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgBAA=</HashCode>
+      <FileName>VAT.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatsBR.NIC">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgBAA=</HashCode>
+      <FileName>NIC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatsBR.BRDataSource">
+    <Position X="9.5" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQJEAAAAAAAAAAAAACAAAAABAAAAAAAAAAAgABgBAA=</HashCode>
+      <FileName>BRDataSource.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ComponentController" />
+      <Field Name="DBController" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="StatsBR.DBController">
+    <Position X="3" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAABAAAAAAEAAAAAAIQAAIgAAAAAABAA=</HashCode>
+      <FileName>DBController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatsBR.ComponentController">
+    <Position X="3" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAYAAAgAAAAAAAAAAAAIAAAAAAABAAJAAEAAA=</HashCode>
+      <FileName>ComponentController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatsBR.BR">
+    <Position X="3" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AFQAAAAEAAAAAAAAAIAAAAAEAAAAAAAAAAAAAABAAAQ=</HashCode>
+      <FileName>BR.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="BRReport" />
+      <Field Name="BRHelper" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="BRDataSource" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="StatsBR.BRHelper">
+    <Position X="5.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BRHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatsBR.BRReport">
+    <Position X="7.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BRReport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatsBR.DBConfig">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAEAAADAIIAAIAAAAAAAAAAAACAAlAAEAAA=</HashCode>
+      <FileName>DBConfig.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatsBR.DBInterface">
+    <Position X="0.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQQABAAAAAABAAAAAAAAAAACgAAA=</HashCode>
+      <FileName>DBInterface.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="BR" />
+      <Field Name="DBConfig" />
+      <Field Name="DBLogin" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="StatsBR.DBLogin">
+    <Position X="0.5" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAACARAAgAAAAAA=</HashCode>
+      <FileName>DBLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

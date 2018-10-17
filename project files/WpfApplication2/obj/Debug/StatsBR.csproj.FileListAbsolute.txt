@@ -1,0 +1,1251 @@
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\StatsBR.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\StatsBR.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\telerik.windows.controls.charting.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\telerik.windows.controls.data.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\telerik.windows.controls.docking.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\telerik.windows.controls.charting.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\telerik.windows.controls.charting.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\telerik.windows.controls.data.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\telerik.windows.controls.data.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\telerik.windows.controls.docking.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\telerik.windows.controls.docking.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\StatsBR.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2012\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\telerik.windows.controls.charting.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\telerik.windows.controls.data.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\telerik.windows.controls.docking.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\telerik.windows.controls.charting.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\telerik.windows.controls.charting.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\telerik.windows.controls.data.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\telerik.windows.controls.data.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\telerik.windows.controls.docking.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\telerik.windows.controls.docking.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\obj\Debug\StatsBR.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\obj\Debug\StatsBR.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\obj\Debug\StatsBR.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\STATSBR\WpfApplication2\obj\Debug\StatsBR.ConfigureDBConnect.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR1\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR1\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR1\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\statsBR1\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\statsBR1\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\statsBR1\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.charting.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.data.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.docking.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.charting.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.charting.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.data.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.data.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.docking.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.docking.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\obj\Debug\StatsBR.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\obj\Debug\WpfApplication2_Content.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\obj\Debug\StatsBR.frmConfigureDBConnect.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\obj\Debug\StatsBR.FrmTextFile.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\obj\Debug\StatsBR.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_15_12_2014\WpfApplication2\obj\Debug\StatsBR.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2_Content.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.frmConfigureDBConnect.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.FrmTextFile.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.charting.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.data.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.docking.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.charting.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.charting.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.data.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.data.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.docking.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.docking.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\statsBR_27_12_2014\WpfApplication2\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.charting.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.data.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.docking.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.charting.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.charting.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.data.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.data.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.docking.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.docking.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2_Content.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.frmConfigureDBConnect.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.FrmTextFile.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.Properties.Resources.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.csproj.GenerateResource.Cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_27_12_2014\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.csprojResolveAssemblyReference.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.charting.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.data.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.docking.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.charting.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.charting.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.data.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.data.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.docking.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.docking.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.csprojResolveAssemblyReference.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2_Content.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.frmConfigureDBConnect.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.FrmTextFile.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.Properties.Resources.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_15_7_2015_1\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.csproj.GenerateResource.Cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.csprojResolveAssemblyReference.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.frmConfigureDBConnect.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.FrmTextFile.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.Properties.Resources.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.csproj.GenerateResource.Cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.charting.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.charting.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.data.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.data.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.docking.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.docking.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\EntityFramework.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\EntityFramework.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Configuration.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Frameworks.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Logging.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Packaging.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Packaging.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Versioning.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Configuration.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Frameworks.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Logging.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Packaging.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Packaging.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_23_7_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Versioning.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.csprojResolveAssemblyReference.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.frmConfigureDBConnect.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.FrmTextFile.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.Properties.Resources.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.csproj.GenerateResource.Cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\EntityFramework.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Configuration.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Frameworks.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Logging.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Packaging.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Packaging.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Versioning.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\EntityFramework.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Configuration.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Frameworks.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Logging.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Packaging.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Packaging.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Versioning.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.charting.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.charting.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.data.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.data.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.docking.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.docking.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_5_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.csprojResolveAssemblyReference.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.frmConfigureDBConnect.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.FrmTextFile.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.Properties.Resources.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\obj\Debug\StatsBR.csproj.GenerateResource.Cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\EntityFramework.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Configuration.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Frameworks.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Logging.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Packaging.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Packaging.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Versioning.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\EntityFramework.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Configuration.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Frameworks.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Logging.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Packaging.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Packaging.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\NuGet.Versioning.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.charting.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.charting.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.data.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.data.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.docking.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.docking.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_11_2015\statsBR_15_7_2015\statsBR_27_12_2014\WpfApplication2\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.csprojResolveAssemblyReference.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.frmConfigureDBConnect.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.FrmTextFile.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.Properties.Resources.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.csproj.GenerateResource.Cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Configuration.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Frameworks.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Logging.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Versioning.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Configuration.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Frameworks.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Logging.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Versioning.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.charting.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.charting.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.data.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.data.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.docking.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.docking.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Configuration.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Frameworks.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Logging.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Versioning.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Configuration.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Frameworks.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Logging.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Versioning.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.charting.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.charting.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.data.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.data.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.docking.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.docking.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.csprojResolveAssemblyReference.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.FrmConfigureDBConnect.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.FrmTextFile.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.Properties.Resources.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_9_12_2015\statsBR_1_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.csproj.GenerateResource.Cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Configuration.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Frameworks.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Logging.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Versioning.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Configuration.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Frameworks.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Logging.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Versioning.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.charting.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.charting.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.data.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.data.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.docking.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.docking.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.csprojResolveAssemblyReference.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.FrmConfigureDBConnect.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.FrmTextFile.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.Properties.Resources.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.csproj.GenerateResource.Cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Configuration.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Frameworks.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Logging.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Versioning.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Configuration.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Frameworks.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Logging.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Versioning.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.FrmConfigureDBConnect.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.FrmTextFile.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.Properties.Resources.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.csproj.GenerateResource.Cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Expressions.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Expressions.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Expressions.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Flow.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Core.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_17_12_2015\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.csprojResolveAssemblyReference.cache
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Configuration.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Core.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Frameworks.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Logging.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Versioning.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.charting.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.data.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.docking.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Expressions.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Configuration.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Frameworks.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Logging.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Versioning.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.charting.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.charting.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.data.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.data.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.docking.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.docking.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Expressions.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Expressions.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Flow.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Core.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.csprojResolveAssemblyReference.cache
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.FrmConfigureDBConnect.resources
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.FrmTextFile.resources
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.Properties.Resources.resources
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.csproj.GenerateResource.Cache
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.dll
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.ImageEditor.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Configuration.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Core.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Frameworks.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Logging.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Versioning.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Expressions.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Configuration.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Frameworks.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Logging.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\NuGet.Versioning.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Expressions.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Expressions.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Core.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.csprojResolveAssemblyReference.cache
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.FrmConfigureDBConnect.resources
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.FrmTextFile.resources
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.Properties.Resources.resources
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015\project files\WpfApplication2\obj\Debug\StatsBR.csproj.GenerateResource.Cache
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\EntityFramework.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Configuration.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Core.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Frameworks.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Logging.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Packaging.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Versioning.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Expressions.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\EntityFramework.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Configuration.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Frameworks.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Logging.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Packaging.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Versioning.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Expressions.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\StatsBR.FrmConfigureDBConnect.resources
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\StatsBR.FrmTextFile.resources
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\StatsBR.Properties.Resources.resources
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\StatsBR.csproj.GenerateResource.Cache
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\Login.g.cs
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\Login.baml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.charting.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.data.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.docking.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Data.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.charting.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.data.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.docking.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Chart.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Microsoft.mshtml.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Microsoft.MSXML.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Chart.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.ReportViewer.Wpf.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.EntityFramework.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Spreadsheet.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Reporting.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.ReportViewer.Wpf.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.ReportViewer.Wpf.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.EntityFramework.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Spreadsheet.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Reporting.pdb
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Reporting.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Proofing.RadGridView.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Proofing.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Proofing.RadGridView.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Proofing.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\WpfApplication2.exe
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\WpfApplication2.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\EntityFramework.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Configuration.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Frameworks.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Logging.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Packaging.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Versioning.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Expressions.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Proofing.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Maths.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\EntityFramework.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Configuration.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Frameworks.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Logging.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Packaging.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Packaging.Core.Types.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.Types.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v2.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Protocol.Core.v3.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Protocol.VisualStudio.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\NuGet.Versioning.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Chart.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Chart.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.charting.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.charting.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.data.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.data.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Diagrams.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.diagrams.extensions.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.docking.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.docking.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.EntityFramework.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.EntityFramework.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Expressions.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Expressions.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.gridview.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Input.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Navigation.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\telerik.windows.controls.ribbonview.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Spreadsheet.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.Spreadsheet.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Data.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Data.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Diagrams.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Proofing.RadGridView.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Proofing.RadGridView.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Spreadsheet.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Core.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Proofing.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Proofing.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Maths.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Maths.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.pdb
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml.xml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\StatsBR.csprojResolveAssemblyReference.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\MainWindow.baml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\Login.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\MainWindow.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\App.g.cs
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.lref
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\Login.baml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\StatsBR.FrmConfigureDBConnect.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\StatsBR.FrmTextFile.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\StatsBR.Properties.Resources.resources
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\StatsBR.csproj.GenerateResource.Cache
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\BRdetails.baml
+C:\Users\ITUNIT_BC_Lenovo\Documents\Visual Studio 2013\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\BRdetails.g.cs
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\BRdetails.baml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\BRdetails.g.cs
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\WpfApplication2_Content.g.cs
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.DataVisualization.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.DataVisualization.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.ImageEditor.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.ImageEditor.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Controls.RichTextBoxUI.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\LinqToExcel.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Remotion.Data.Linq.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Remotion.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\Remotion.Interfaces.dll
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\bin\Debug\LinqToExcel.xml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\LogWindow.g.cs
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\LogWindow.baml
+C:\Users\StatsIT\Documents\Visual Studio 2015\Projects\statsBR_16_12_2015_CURRENT\project files\WpfApplication2\obj\Debug\StatsBR.csprojResolveAssemblyReference.cache

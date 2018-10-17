@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BRDBModelStoreContainer" CdmEntityContainer="BRDBContainer">
+    <FunctionImportMapping FunctionImportName="ExtractUniverse" FunctionName="BRDBModel.Store.ExtractUniverse" />
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="BRDBModel.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="BRDBModel.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="BRDBModel.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="BRDBModel.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BRDBModel.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="BRDBModel.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="BRDBModel.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="BRDBModel.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="BRDBModel.Store.sp_upgraddiagrams" />
+    <EntitySetMapping Name="Businesses">
+      <EntityTypeMapping TypeName="BRDBModel.Business">
+        <MappingFragment StoreEntitySet="Business">
+          <ScalarProperty Name="LastUpdateDate" ColumnName="LastUpdateDate" />
+          <ScalarProperty Name="ISICDate" ColumnName="ISICDate" />
+          <ScalarProperty Name="ISICSource" ColumnName="ISICSource" />
+          <ScalarProperty Name="ISIC" ColumnName="ISIC" />
+          <ScalarProperty Name="WagesDate" ColumnName="WagesDate" />
+          <ScalarProperty Name="WagesSource" ColumnName="WagesSource" />
+          <ScalarProperty Name="Wages" ColumnName="Wages" />
+          <ScalarProperty Name="SalesDate" ColumnName="SalesDate" />
+          <ScalarProperty Name="SalesSource" ColumnName="SalesSource" />
+          <ScalarProperty Name="Sales" ColumnName="Sales" />
+          <ScalarProperty Name="NumberOfSalariedEmployeesDate" ColumnName="NumberOfSalariedEmployeesDate" />
+          <ScalarProperty Name="NumberOfSalariedEmployeesSource" ColumnName="NumberOfSalariedEmployeesSource" />
+          <ScalarProperty Name="NumberOfSalariedEmployees" ColumnName="NumberOfSalariedEmployees" />
+          <ScalarProperty Name="NumberOfEmployeesDate" ColumnName="NumberOfEmployeesDate" />
+          <ScalarProperty Name="NumberOfEmployeesSource" ColumnName="NumberOfEmployeesSource" />
+          <ScalarProperty Name="NumberOfEmployees" ColumnName="NumberOfEmployees" />
+          <ScalarProperty Name="RevenueDate" ColumnName="RevenueDate" />
+          <ScalarProperty Name="RevenueSource" ColumnName="RevenueSource" />
+          <ScalarProperty Name="Revenue" ColumnName="Revenue" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="District" ColumnName="District" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="OperationalName" ColumnName="OperationalName" />
+          <ScalarProperty Name="LegalName" ColumnName="LegalName" />
+          <ScalarProperty Name="StatisticalNumber" ColumnName="StatisticalNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BusinessLogs">
+      <EntityTypeMapping TypeName="BRDBModel.BusinessLog">
+        <MappingFragment StoreEntitySet="BusinessLog">
+          <ScalarProperty Name="ActionCode" ColumnName="ActionCode" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="ISICDate" ColumnName="ISICDate" />
+          <ScalarProperty Name="ISICSource" ColumnName="ISICSource" />
+          <ScalarProperty Name="ISIC" ColumnName="ISIC" />
+          <ScalarProperty Name="WagesDate" ColumnName="WagesDate" />
+          <ScalarProperty Name="WagesSource" ColumnName="WagesSource" />
+          <ScalarProperty Name="Wages" ColumnName="Wages" />
+          <ScalarProperty Name="SalesDate" ColumnName="SalesDate" />
+          <ScalarProperty Name="SalesSource" ColumnName="SalesSource" />
+          <ScalarProperty Name="Sales" ColumnName="Sales" />
+          <ScalarProperty Name="NumberOfSalariedEmployeesDate" ColumnName="NumberOfSalariedEmployeesDate" />
+          <ScalarProperty Name="NumberOfSalariedEmployeesSource" ColumnName="NumberOfSalariedEmployeesSource" />
+          <ScalarProperty Name="NumberOfSalariedEmployees" ColumnName="NumberOfSalariedEmployees" />
+          <ScalarProperty Name="NumberOfEmployeesDate" ColumnName="NumberOfEmployeesDate" />
+          <ScalarProperty Name="NumberOfEmployeesSource" ColumnName="NumberOfEmployeesSource" />
+          <ScalarProperty Name="NumberOfEmployees" ColumnName="NumberOfEmployees" />
+          <ScalarProperty Name="RevenueDate" ColumnName="RevenueDate" />
+          <ScalarProperty Name="RevenueSource" ColumnName="RevenueSource" />
+          <ScalarProperty Name="Revenue" ColumnName="Revenue" />
+          <ScalarProperty Name="BusinessStatusCode" ColumnName="BusinessStatusCode" />
+          <ScalarProperty Name="BusinessTypeCode" ColumnName="BusinessTypeCode" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="District" ColumnName="District" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="OperationalName" ColumnName="OperationalName" />
+          <ScalarProperty Name="LegalName" ColumnName="LegalName" />
+          <ScalarProperty Name="LogUpdateSource" ColumnName="LogUpdateSource" />
+          <ScalarProperty Name="LogDate" ColumnName="LogDate" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BusinessStatus">
+      <EntityTypeMapping TypeName="BRDBModel.BusinessStatu">
+        <MappingFragment StoreEntitySet="BusinessStatus">
+          <ScalarProperty Name="LongDescription" ColumnName="LongDescription" />
+          <ScalarProperty Name="Label" ColumnName="Label" />
+          <ScalarProperty Name="BusinessStatusCode" ColumnName="BusinessStatusCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="BusinessTypes">
+      <EntityTypeMapping TypeName="BRDBModel.BusinessType">
+        <MappingFragment StoreEntitySet="BusinessType">
+          <ScalarProperty Name="LongDescription" ColumnName="LongDescription" />
+          <ScalarProperty Name="Label" ColumnName="Label" />
+          <ScalarProperty Name="BusinessTypeCode" ColumnName="BusinessTypeCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Contacts">
+      <EntityTypeMapping TypeName="BRDBModel.Contact">
+        <MappingFragment StoreEntitySet="Contact">
+          <ScalarProperty Name="EmailAddress2" ColumnName="EmailAddress2" />
+          <ScalarProperty Name="EmailAddress1" ColumnName="EmailAddress1" />
+          <ScalarProperty Name="FaxNumber" ColumnName="FaxNumber" />
+          <ScalarProperty Name="PhoneNumber2" ColumnName="PhoneNumber2" />
+          <ScalarProperty Name="PhoneNumber1" ColumnName="PhoneNumber1" />
+          <ScalarProperty Name="POBox" ColumnName="POBox" />
+          <ScalarProperty Name="Street" ColumnName="Street" />
+          <ScalarProperty Name="District" ColumnName="District" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="StatisticalNumber" ColumnName="StatisticalNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="LOGINs">
+      <EntityTypeMapping TypeName="BRDBModel.LOGIN">
+        <MappingFragment StoreEntitySet="LOGIN">
+          <ScalarProperty Name="UserEmailAddress" ColumnName="UserEmailAddress" />
+          <ScalarProperty Name="LoginPassword" ColumnName="LoginPassword" />
+          <ScalarProperty Name="LoginName" ColumnName="LoginName" />
+          <ScalarProperty Name="UserSurname" ColumnName="UserSurname" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OptionalBusinessAttributes">
+      <EntityTypeMapping TypeName="BRDBModel.OptionalBusinessAttribute">
+        <MappingFragment StoreEntitySet="OptionalBusinessAttributes">
+          <ScalarProperty Name="ISCO" ColumnName="ISCO" />
+          <ScalarProperty Name="StatisticalNumber" ColumnName="StatisticalNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sectors">
+      <EntityTypeMapping TypeName="BRDBModel.Sector">
+        <MappingFragment StoreEntitySet="Sector">
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Label" ColumnName="Label" />
+          <ScalarProperty Name="SectorCode" ColumnName="SectorCode" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StatisticalStructures">
+      <EntityTypeMapping TypeName="BRDBModel.StatisticalStructure">
+        <MappingFragment StoreEntitySet="StatisticalStructure">
+          <ScalarProperty Name="ParentStatisticalNumber" ColumnName="ParentStatisticalNumber" />
+          <ScalarProperty Name="ChildStatisticalNumber" ColumnName="ChildStatisticalNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ExternalKeys">
+      <EntityTypeMapping TypeName="BRDBModel.ExternalKey">
+        <MappingFragment StoreEntitySet="ExternalKeys">
+          <ScalarProperty Name="StatisticalNumber" ColumnName="StatisticalNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IRDs">
+      <EntityTypeMapping TypeName="BRDBModel.IRD">
+        <MappingFragment StoreEntitySet="IRD">
+          <ScalarProperty Name="Representative" ColumnName="Representative" />
+          <ScalarProperty Name="LegalStatus" ColumnName="LegalStatus" />
+          <ScalarProperty Name="TaxSuppStartDate" ColumnName="TaxSuppStartDate" />
+          <ScalarProperty Name="Secondary_ISIC" ColumnName="Secondary_ISIC" />
+          <ScalarProperty Name="Primary_ISIC" ColumnName="Primary_ISIC" />
+          <ScalarProperty Name="ValTaxSupply" ColumnName="ValTaxSupply" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="FaxNumber" ColumnName="FaxNumber" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="MailingCity" ColumnName="MailingCity" />
+          <ScalarProperty Name="MailingAddress" ColumnName="MailingAddress" />
+          <ScalarProperty Name="TradeName" ColumnName="TradeName" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="IRDNumber" ColumnName="IRDNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IRDLogs">
+      <EntityTypeMapping TypeName="BRDBModel.IRDLog">
+        <MappingFragment StoreEntitySet="IRDLog">
+          <ScalarProperty Name="Representative" ColumnName="Representative" />
+          <ScalarProperty Name="LegalStatus" ColumnName="LegalStatus" />
+          <ScalarProperty Name="TaxSuppStartDate" ColumnName="TaxSuppStartDate" />
+          <ScalarProperty Name="Secondary_ISIC" ColumnName="Secondary_ISIC" />
+          <ScalarProperty Name="Primary_ISIC" ColumnName="Primary_ISIC" />
+          <ScalarProperty Name="ValTaxSupply" ColumnName="ValTaxSupply" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="FaxNumber" ColumnName="FaxNumber" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="MailingCity" ColumnName="MailingCity" />
+          <ScalarProperty Name="MailingAddress" ColumnName="MailingAddress" />
+          <ScalarProperty Name="TradeName" ColumnName="TradeName" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="LogDate" ColumnName="LogDate" />
+          <ScalarProperty Name="IRDNumber" ColumnName="IRDNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NICs">
+      <EntityTypeMapping TypeName="BRDBModel.NIC">
+        <MappingFragment StoreEntitySet="NIC">
+          <ScalarProperty Name="NatureOfBusiness" ColumnName="NatureOfBusiness" />
+          <ScalarProperty Name="Sector" ColumnName="Sector" />
+          <ScalarProperty Name="TotalContributions" ColumnName="TotalContributions" />
+          <ScalarProperty Name="NumberOfEmployees" ColumnName="NumberOfEmployees" />
+          <ScalarProperty Name="DateOfRegistration" ColumnName="DateOfRegistration" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+          <ScalarProperty Name="District" ColumnName="District" />
+          <ScalarProperty Name="AddressLine2" ColumnName="AddressLine2" />
+          <ScalarProperty Name="AddressLine1" ColumnName="AddressLine1" />
+          <ScalarProperty Name="TradeName" ColumnName="TradeName" />
+          <ScalarProperty Name="RegistrarOfCompNum" ColumnName="RegistrarOfCompNum" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="NICNumber" ColumnName="NICNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="NICLogs">
+      <EntityTypeMapping TypeName="BRDBModel.NICLog">
+        <MappingFragment StoreEntitySet="NICLog">
+          <ScalarProperty Name="NatureOfBusiness" ColumnName="NatureOfBusiness" />
+          <ScalarProperty Name="Sector" ColumnName="Sector" />
+          <ScalarProperty Name="TotalContributions" ColumnName="TotalContributions" />
+          <ScalarProperty Name="NumberOfEmployees" ColumnName="NumberOfEmployees" />
+          <ScalarProperty Name="DateOfRegistration" ColumnName="DateOfRegistration" />
+          <ScalarProperty Name="EmailAddress" ColumnName="EmailAddress" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+          <ScalarProperty Name="District" ColumnName="District" />
+          <ScalarProperty Name="AddressLine2" ColumnName="AddressLine2" />
+          <ScalarProperty Name="AddressLine1" ColumnName="AddressLine1" />
+          <ScalarProperty Name="TradeName" ColumnName="TradeName" />
+          <ScalarProperty Name="RegistrarOfCompNum" ColumnName="RegistrarOfCompNum" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="LogDate" ColumnName="LogDate" />
+          <ScalarProperty Name="NICNumber" ColumnName="NICNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Registrars">
+      <EntityTypeMapping TypeName="BRDBModel.Registrar">
+        <MappingFragment StoreEntitySet="Registrar">
+          <ScalarProperty Name="CreationDate" ColumnName="CreationDate" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="RegistrarNumber" ColumnName="RegistrarNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RegistrarLogs">
+      <EntityTypeMapping TypeName="BRDBModel.RegistrarLog">
+        <MappingFragment StoreEntitySet="RegistrarLog">
+          <ScalarProperty Name="CreationDate" ColumnName="CreationDate" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="LogDate" ColumnName="LogDate" />
+          <ScalarProperty Name="RegistrarNumber" ColumnName="RegistrarNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VATs">
+      <EntityTypeMapping TypeName="BRDBModel.VAT">
+        <MappingFragment StoreEntitySet="VAT">
+          <ScalarProperty Name="TotalOutputTax" ColumnName="TotalOutputTax" />
+          <ScalarProperty Name="TotalSupplies" ColumnName="TotalSupplies" />
+          <ScalarProperty Name="ExemptSupplies" ColumnName="ExemptSupplies" />
+          <ScalarProperty Name="ZeroRatedSupplies" ColumnName="ZeroRatedSupplies" />
+          <ScalarProperty Name="Hotel" ColumnName="Hotel" />
+          <ScalarProperty Name="StandardRatedSupplies" ColumnName="StandardRatedSupplies" />
+          <ScalarProperty Name="Month" ColumnName="Month" />
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="VATNumber" ColumnName="VATNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="VATLogs">
+      <EntityTypeMapping TypeName="BRDBModel.VATLog">
+        <MappingFragment StoreEntitySet="VATLog">
+          <ScalarProperty Name="TotalOutputTax" ColumnName="TotalOutputTax" />
+          <ScalarProperty Name="TotalSupplies" ColumnName="TotalSupplies" />
+          <ScalarProperty Name="ExemptSupplies" ColumnName="ExemptSupplies" />
+          <ScalarProperty Name="ZeroRatedSupplies" ColumnName="ZeroRatedSupplies" />
+          <ScalarProperty Name="Hotel" ColumnName="Hotel" />
+          <ScalarProperty Name="StandardRatedSupplies" ColumnName="StandardRatedSupplies" />
+          <ScalarProperty Name="Month" ColumnName="Month" />
+          <ScalarProperty Name="Year" ColumnName="Year" />
+          <ScalarProperty Name="LogDate" ColumnName="LogDate" />
+          <ScalarProperty Name="VATNumber" ColumnName="VATNumber" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="FK_Business_BusinessStatus" TypeName="BRDBModel.FK_Business_BusinessStatus" StoreEntitySet="Business">
+      <EndProperty Name="Business">
+        <ScalarProperty Name="StatisticalNumber" ColumnName="StatisticalNumber" />
+      </EndProperty>
+      <EndProperty Name="BusinessStatu">
+        <ScalarProperty Name="BusinessStatusCode" ColumnName="BusinessStatusCode" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_Business_BusinessType" TypeName="BRDBModel.FK_Business_BusinessType" StoreEntitySet="Business">
+      <EndProperty Name="Business">
+        <ScalarProperty Name="StatisticalNumber" ColumnName="StatisticalNumber" />
+      </EndProperty>
+      <EndProperty Name="BusinessType">
+        <ScalarProperty Name="BusinessTypeCode" ColumnName="BusinessTypeCode" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_Business_LOGIN" TypeName="BRDBModel.FK_Business_LOGIN" StoreEntitySet="Business">
+      <EndProperty Name="Business">
+        <ScalarProperty Name="StatisticalNumber" ColumnName="StatisticalNumber" />
+      </EndProperty>
+      <EndProperty Name="LOGIN">
+        <ScalarProperty Name="ID" ColumnName="LastUserIdUpdated" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_Business_Sector" TypeName="BRDBModel.FK_Business_Sector" StoreEntitySet="Business">
+      <EndProperty Name="Business">
+        <ScalarProperty Name="StatisticalNumber" ColumnName="StatisticalNumber" />
+      </EndProperty>
+      <EndProperty Name="Sector">
+        <ScalarProperty Name="SectorCode" ColumnName="SectorCode" />
+      </EndProperty>
+      <Condition ColumnName="SectorCode" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_BusinessLog_Business" TypeName="BRDBModel.FK_BusinessLog_Business" StoreEntitySet="BusinessLog">
+      <EndProperty Name="BusinessLog">
+        <ScalarProperty Name="Id" ColumnName="Id" />
+      </EndProperty>
+      <EndProperty Name="Business">
+        <ScalarProperty Name="StatisticalNumber" ColumnName="StatisticalNumber" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_ExternalKeys_IRD" TypeName="BRDBModel.FK_ExternalKeys_IRD" StoreEntitySet="ExternalKeys">
+      <EndProperty Name="ExternalKey">
+        <ScalarProperty Name="StatisticalNumber" ColumnName="StatisticalNumber" />
+      </EndProperty>
+      <EndProperty Name="IRD">
+        <ScalarProperty Name="IRDNumber" ColumnName="IRDNumber" />
+      </EndProperty>
+      <Condition ColumnName="IRDNumber" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_ExternalKeys_NIC" TypeName="BRDBModel.FK_ExternalKeys_NIC" StoreEntitySet="ExternalKeys">
+      <EndProperty Name="ExternalKey">
+        <ScalarProperty Name="StatisticalNumber" ColumnName="StatisticalNumber" />
+      </EndProperty>
+      <EndProperty Name="NIC">
+        <ScalarProperty Name="NICNumber" ColumnName="NICNumber" />
+      </EndProperty>
+      <Condition ColumnName="NICNumber" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_ExternalKeys_Registrar" TypeName="BRDBModel.FK_ExternalKeys_Registrar" StoreEntitySet="ExternalKeys">
+      <EndProperty Name="ExternalKey">
+        <ScalarProperty Name="StatisticalNumber" ColumnName="StatisticalNumber" />
+      </EndProperty>
+      <EndProperty Name="Registrar">
+        <ScalarProperty Name="RegistrarNumber" ColumnName="RegistrarNumber" />
+      </EndProperty>
+      <Condition ColumnName="RegistrarNumber" IsNull="false" />
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="FK_ExternalKeys_VAT" TypeName="BRDBModel.FK_ExternalKeys_VAT" StoreEntitySet="ExternalKeys">
+      <EndProperty Name="ExternalKey">
+        <ScalarProperty Name="StatisticalNumber" ColumnName="StatisticalNumber" />
+      </EndProperty>
+      <EndProperty Name="VAT">
+        <ScalarProperty Name="VATNumber" ColumnName="VATNumber" />
+      </EndProperty>
+      <Condition ColumnName="VATNumber" IsNull="false" />
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

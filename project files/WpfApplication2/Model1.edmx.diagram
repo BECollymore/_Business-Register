@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a8d50edd3d634c38a8f63d31ff454a2f" Name="Diagram1" ZoomLevel="100">
+        <EntityTypeShape EntityType="BusinessRegisterModel.AddressLog" Width="1.5" PointX="1.75" PointY="20.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.Business" Width="1.5" PointX="2.625" PointY="23.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.BusinessLog" Width="1.5" PointX="4.625" PointY="23.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.BusinessStatu" Width="1.5" PointX="0.75" PointY="23.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.BusinessType" Width="1.5" PointX="0.75" PointY="28" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.Contact" Width="1.5" PointX="4.25" PointY="19.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.ISICLog" Width="1.5" PointX="0.75" PointY="25.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.LOGIN" Width="1.5" PointX="3.875" PointY="16.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.NumEmpLog" Width="1.5" PointX="0.75" PointY="31.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.NumSalariedEmpLog" Width="1.5" PointX="0.75" PointY="34.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.OptionalBusinessAttribute" Width="1.5" PointX="4.5" PointY="34.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.PercentForeignLog" Width="1.5" PointX="2.5" PointY="36.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.RevenueLog" Width="1.5" PointX="0.625" PointY="38" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.SalesLog" Width="1.5" PointX="2.25" PointY="40" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.Sector" Width="1.5" PointX="0.75" PointY="29.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.StatisticalStructure" Width="1.5" PointX="4.625" PointY="41.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.WagesLog" Width="1.5" PointX="2.25" PointY="42.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.sysdiagram" Width="1.5" PointX="2" PointY="18" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.ExternalKey" Width="1.5" PointX="8.25" PointY="26.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.IRD" Width="1.5" PointX="6.25" PointY="19.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.IRDLog" Width="1.5" PointX="8" PointY="19.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.NIC" Width="1.5" PointX="4.5" PointY="36.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.NICLog" Width="1.5" PointX="6.375" PointY="36.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.Registrar" Width="1.5" PointX="6.5" PointY="25.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.RegistrarLog" Width="1.5" PointX="6.375" PointY="28.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.VAT" Width="1.5" PointX="6.375" PointY="30.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="BusinessRegisterModel.VATLog" Width="1.5" PointX="7.625" PointY="33.75" IsExpanded="true" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_AddressLog_Business" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_Business_BusinessStatus" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_Business_BusinessType" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_Business_Sector" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_BusinessLog_Business" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_Contact_Business" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_ExternalKeys_Business" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_ISICLog_Business" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_NumEmpLog_Business" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_NumSalariedEmpLog_Business" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_OptionalBusinessAttributes_Business" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_PercentForeignLog_Business" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_RevenueLog_Business" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_SalesLog_Business" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_StatisticalStructure_Business" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_WagesLog_Business" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_ExternalKeys_IRD" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_ExternalKeys_NIC" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_ExternalKeys_Registrar" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_ExternalKeys_VAT" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_IRDLog_IRD" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_NICLog_NIC" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_RegistrarLog_Registrar" ManuallyRouted="false" />
+        <AssociationConnector Association="BusinessRegisterModel.FK_VATLog_VAT" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

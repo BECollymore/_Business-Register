@@ -1,0 +1,510 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:telerikDocking="clr-namespace:Telerik.Windows.Controls;assembly=Telerik.Windows.Controls.Docking" 
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation" 
+        xmlns:Primitives="clr-namespace:Telerik.Windows.Controls.RibbonView.Primitives;assembly=Telerik.Windows.Controls.RibbonView" 
+        xmlns:Data="clr-namespace:System.Data;assembly=System.Data" 
+        xmlns:Chromes="clr-namespace:Telerik.Windows.Controls.Chromes;assembly=Telerik.Windows.Controls" 
+        xmlns:local="clr-namespace:StatsBR" 
+        x:Name="BusinessRegister" x:Class="StatsBR.MainWindow"
+        Title="Business Register v1.0" Height="839" Width="1421" WindowState="Maximized" GotFocus="Window_GotFocus" Closing="BusinessRegister_Closing">
+
+    <Window.Background>
+        <ImageBrush>
+            <ImageBrush.ImageSource>
+                <ImageSource>Images/background_final.png</ImageSource>
+            </ImageBrush.ImageSource>
+        </ImageBrush>
+    </Window.Background>
+    <Grid>
+        <DockPanel LastChildFill="False" Margin="0,0,10,10" >
+            <telerik:RadDocking Margin="10,49,0,32" Width="268" Background="#FF4E6476" >
+                <telerik:RadSplitContainer>
+                    <telerik:RadPaneGroup Margin="0,0,-4,0" SelectionChanged="RadPaneGroup_SelectionChanged_1">
+                        <telerik:RadPane x:Name="rpSelectTables" Header="VIEW TABLES" Title="Select  Database Tables">
+                            <!--<telerik:RadPropertyGrid />-->
+                            <Grid>
+                                <Grid Margin="20,68,10,566">
+                                    <TextBlock TextWrapping="Wrap"
+										Text="* This tab is used to search the database for records from a specific table..." Margin="-8,-61,-1,45"  Foreground="#FFC71007" FontStyle="Italic"/>
+                                    <telerik:RadComboBox x:Name="cbxTables" EmptyText="---Select Table---" FontWeight="Bold"  Margin="-8,28,84,-28" BorderThickness="0"/>
+                                    <telerik:RadButton x:Name="btnshowtable" Content="Show Data" Height="Auto" FontWeight="Bold" Click="btnshowtable_Click" Margin="142,28,-1,-28" BorderThickness="0"/>
+                                </Grid>
+                                <telerik:GroupBox Header="Please Select Table" HorizontalAlignment="Left" Margin="3,53,0,0" VerticalAlignment="Top" Height="143" Width="233" Foreground="#FF174E9E" FontWeight="Bold"/>
+                                <telerik:GroupBox Header="Search Selected Table" HorizontalAlignment="Left" Margin="3,235,0,0" VerticalAlignment="Top" Height="322" Width="232"  Foreground="#FF174E9E" FontWeight="Bold">
+                                    <Grid>
+                                        <telerik:RadComboBox x:Name="cbxSearchOption" EmptyText="--- Search By ---" HorizontalAlignment="Left" Margin="11,20,0,0" VerticalAlignment="Top" Width="133" Height="30" SelectionChanged="cbxSearchOption_SelectionChanged" BorderThickness="0">
+                                            <telerik:RadComboBoxItem Content="StatisticalNumber" />
+                                            <telerik:RadComboBoxItem Content="LegalName" />
+                                            <telerik:RadComboBoxItem Content="OperationalName" />
+                                            <telerik:RadComboBoxItem Content="District" />
+                                            <telerik:RadComboBoxItem Content="PhoneNumber" />
+                                            <telerik:RadComboBoxItem Content="Revenue" />
+                                            <telerik:RadComboBoxItem Content="NumberOfEmployees" />
+                                            <telerik:RadComboBoxItem Content="Sales" />
+                                            <telerik:RadComboBoxItem Content="ISIC" />
+                                        </telerik:RadComboBox>
+                                        <telerik:RadButton x:Name="btnSearchTable" Content="Search" HorizontalAlignment="Left" Margin="11,115,0,0" VerticalAlignment="Top" Width="133" Height="47" Click="btnSearchTable_Click" IsEnabled="False"/>
+
+                                    </Grid>
+                                </telerik:GroupBox>
+                                <telerik:RadMaskedTextInput x:Name="tbxSearchTable" HorizontalAlignment="Left" Margin="21,318,0,0"  Text="---Enter Search Value---" VerticalAlignment="Top" Height="31" Width="200" BorderThickness="1" BorderBrush="#FF252424" GotFocus="tbxSearchTable_GotFocus" Foreground="#FF065E6C"  FontWeight="Bold"  TextMode="PlainText" ValueChanged="tbxSearchTable_ValueChanged" />
+
+                            </Grid>
+                        </telerik:RadPane>
+                        <telerik:RadPane Header="TREE VIEW" Title="Querry Database"/>
+                    </telerik:RadPaneGroup>
+                </telerik:RadSplitContainer>
+            </telerik:RadDocking>
+            <telerik:RadTabControl Margin="0,47,0,34"  HorizontalAlignment="stretch" Width="1124" HeaderBackground="#FF4E6476" >
+
+
+                <!--Start Business records Tab -->
+
+                <!-- End Business records tab -->
+
+
+                <!----> <telerik:RadTabItem x:Name="resultstab" Header="Business Records"  Background="#FF7495EE" Height="50" Width="169" FontWeight="Bold" FontSize="14" BorderBrush="#FF688CAF">
+					<Grid Background="Transparent" Margin="-8,5,5,-29">
+						<Grid.ColumnDefinitions>
+							<ColumnDefinition Width="587*"/>
+							<ColumnDefinition Width="539*"/>
+						</Grid.ColumnDefinitions>
+						<telerik:GroupBox x:Name="chartGroupBox" HorizontalAlignment="Left" Height="345" Margin="14,320,-5,0" VerticalAlignment="Top" Width="1116" BorderBrush="#FF688CAF" Header="Data Visualization" Grid.ColumnSpan="2">
+							<telerik:RadTabControl Margin="0,7,-2,0"  HorizontalAlignment="stretch" HeaderBackground="#FF4E6476" >
+								<telerik:RadTabItem x:Name="businessInformationtab" Header="Business Information"  Background="#FF7495EE" Height="50" Width="169" FontWeight="Bold" FontSize="14" BorderBrush="#FF688CAF">
+
+									<telerik:RadDataForm x:Name="RadDataForm1" ItemsSource="{Binding Items, ElementName=radGridView1}" Header="Edit Business Record:" EditEnded="RadDataForm1_EditEnded" AutoEdit="False" AutoGeneratingField="RadDataForm1_AutoGeneratingField" >
+										<telerik:RadDataForm.BindingGroup>
+											<BindingGroup/>
+										</telerik:RadDataForm.BindingGroup>
+									</telerik:RadDataForm>
+
+
+								</telerik:RadTabItem>
+								<telerik:RadTabItem x:Name="viewgraphtab" Header="View Graph"  Background="#FF7495EE" Height="50" Width="169" FontWeight="Bold" FontSize="14" BorderBrush="#FF688CAF" Loaded="viewgraphtab_Loaded">
+                                   
+									<Grid>
+										<telerik:RadChart x:Name="radchart1" HorizontalAlignment="Left" Height="241" VerticalAlignment="Top" Width="769" Margin="0,10,0,0">
+                                         
+											<telerik:RadContextMenu.ContextMenu>
+												<telerik:RadContextMenu >
+													<telerik:RadMenuItem x:Name="printchartcontextmenu" Header="Print Graph" Click="RadMenuItem_Click" >
+														<telerik:RadMenuItem.Icon>
+															<Image  Stretch="None" Source="Images\Print_11009.ico" />
+														</telerik:RadMenuItem.Icon> 
+													</telerik:RadMenuItem>
+												</telerik:RadContextMenu>
+											</telerik:RadContextMenu.ContextMenu>
+										</telerik:RadChart>
+										<telerik:RadComboBox x:Name="SelectQueryType"  Margin="847,46,39,181" Text="" EmptyText="         ---Change Query----" SelectionChanged="SelectQueryType_SelectionChanged" > 
+											<telerik:RadComboBoxItem Content="Top 10 Sales" />
+											<telerik:RadComboBoxItem Content="Top 10 Employers" />
+											<telerik:RadComboBoxItem Content="Top 10 Revenue" />
+										</telerik:RadComboBox>
+										<Label x:Name="graphline" Content="________________________________________________________________________________________" HorizontalAlignment="Left" Margin="824,76,0,0" VerticalAlignment="Top" Width="280"/>
+										<CheckBox x:Name="barchbox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="832,110,0,0" Checked="barchbox_Checked">
+											<TextBlock Height="21"
+												Margin="8 0 0 0"
+												VerticalAlignment="Bottom"
+												FontFamily="Segoe UI"
+												FontSize="12"
+												Foreground="Black"
+												Text="Bar"
+												TextWrapping="Wrap" />   
+										</CheckBox>
+										<CheckBox x:Name="piechbox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="924,112,0,0" Checked="piechbox_Checked">
+											<TextBlock Height="21"
+												Margin="8 0 0 0"
+												VerticalAlignment="Bottom"
+												FontFamily="Segoe UI"
+												FontSize="12"
+												Foreground="Black"
+												Text="Pie"
+												TextWrapping="Wrap" />   
+										</CheckBox>
+										<CheckBox x:Name="linechbox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="1014,112,0,0" Checked="linechbox_Checked">
+											<TextBlock Height="21"
+												Margin="8 0 0 0"
+												VerticalAlignment="Bottom"
+												FontFamily="Segoe UI"
+												FontSize="12"
+												Foreground="Black"
+												Text="Line"
+												TextWrapping="Wrap" />   
+										</CheckBox>
+										<telerik:GroupBox Margin="806,10,6,10" >                                            
+											<telerik:RadButton x:Name="ExpandGraphbtn" Content="More Graph Options" HorizontalAlignment="Left" Height="Auto" Margin="54,128,0,0" VerticalAlignment="Top" Width="182" BorderThickness="0" ToolTip="Click to view larger graph and export image"/>                                        
+										</telerik:GroupBox>
+
+
+                                        
+									</Grid>
+                                    
+								</telerik:RadTabItem>
+                                
+							</telerik:RadTabControl>
+						</telerik:GroupBox>
+                       
+						<telerik:RadGridView x:Name="radGridView1" ItemsSource="{Binding PagedSource, ElementName=xRadDataPager}" x:FieldModifier="public" HorizontalAlignment="Left" Margin="14,-3,0,0" VerticalAlignment="Top" Height="276" Width="1110" RowIndicatorVisibility="Collapsed" RowDetailsVisibilityMode="VisibleWhenSelected" IsSynchronizedWithCurrentItem="True" Grid.ColumnSpan="2" DataLoaded="radGridView1_DataLoaded" AddingNewDataItem="radGridView1_AddingNewDataItem" CellLoaded="radGridView1_CellLoaded" >
+							<!-- <telerik:RadGridView.RowDetailsTemplate>
+                                <DataTemplate>
+                                    <telerik:RadDataForm x:Name="RadDataForm1" CurrentItem="{Binding}" Header="Edit Business Record:" />
+                                </DataTemplate>
+                            </telerik:RadGridView.RowDetailsTemplate> -->
+                </telerik:RadGridView>
+
+                <telerik:RadDataPager x:Name="xRadDataPager"   DisplayMode="All"  IsTotalItemCountFixed="True" Grid.ColumnSpan="2" Margin="14,278,1,380" />
+                <!-- <telerik:RadDataPager x:Name="xRadDataPager"  PageSize="10" Margin="18,278,-1,380" Grid.ColumnSpan="2" DisplayMode="All" IsTotalItemCountFixed="True" NumericButtonCount="10" /> -->
+
+
+    </Grid>
+
+    </telerik:RadTabItem>
+
+    <!--   Add new Business tab start-->
+    <telerik:RadTabItem x:Name="AddBusinessTab" Header="Add New Business" Width="169" FontWeight="Bold" FontSize="14" Background="#FF7495EE">
+        <Grid Background="Transparent">
+            <GroupBox Header="Enter Business Information" Margin="2,10,5,0" BorderThickness="3" BorderBrush="#FFB0C0C9" Foreground="#FF174E9E" >
+                <!--  <GroupBox Header="Enter Key Identifier" BorderThickness="3" BorderBrush="#FFB0C0C9" Margin="5,10,693,537" >-->
+                <Grid Margin="0,0,0,15">
+                    <!--<telerik:PickerTextBox x:Name="tbxAddress" Margin="145,128,708,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="27" BorderThickness="1" BorderBrush="#FF252424" GotFocus="tbxSearchTable_GotFocus" Foreground="#FF065E6C" TextChanged="tbxSearchTable_TextChanged" FontWeight="Bold" IsEnabled="False" /> -->
+                    <!-- 
+                    <telerik:PickerTextBox x:Name="tbxDistrict" Margin="145,168,708,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="27" BorderThickness="1" BorderBrush="#FF252424" GotFocus="tbxSearchTable_GotFocus" Foreground="#FF065E6C" TextChanged="tbxSearchTable_TextChanged" FontWeight="Bold" IsEnabled="False" />
+                    -->
+
+                    <Canvas Margin="9,8,674,184">
+
+
+                        <telerik:RadMaskedTextInput x:Name="radMaskedStatsNum" Width="132" Height="20" InputBehavior="Replace" Mask="#10" SelectionOnFocus="SelectAll" TextMode="PlainText" UpdateValueEvent="LostFocus" Value="" IsEnabled="true" VerticalAlignment="Top" FontWeight="Normal" GotFocus="radMaskedStatsNum_GotFocus" LostFocus="radMaskedStatsNum_LostFocus" Canvas.Left="176"/>
+                        <telerik:RadButton x:Name="btnVerifyStatsNo"  Content="Verify" Height="20" VerticalAlignment="Top" Click="btnVerifyStatsNo_Click" AutomationProperties.HelpText="Click here to ensure Statistical # is unique" Canvas.Left="326" Canvas.Top="2" Width="94"/>
+                        <telerik:RadMaskedTextInput x:Name="radMaskedLegalName" Width="244" Height="20" InputBehavior="Replace"  Mask="a30" SelectionOnFocus="SelectAll" TextMode="PlainText" UpdateValueEvent="LostFocus" Value="" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" Canvas.Left="176" Canvas.Top="76" GotFocus="radMaskedLegalName_GotFocus" LostFocus="radMaskedLegalName_LostFocus"/>
+                        <telerik:RadMaskedTextInput x:Name="radMaskedOperationalName" Width="244" Height="20" InputBehavior="Replace"  Mask="a30" SelectionOnFocus="SelectAll" TextMode="PlainText" UpdateValueEvent="LostFocus" Value="" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" GotFocus="radMaskedOperationalName_GotFocus" LostFocus="radMaskedOperationalName_LostFocus" Canvas.Left="176" Canvas.Top="52"/>
+                        <telerik:RadMaskedTextInput x:Name="radMaskedAddress" Width="244" Height="20" InputBehavior="Replace"  Mask="a30" SelectionOnFocus="SelectAll" TextMode="PlainText" UpdateValueEvent="LostFocus" Value="" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" GotFocus="radMaskedAddress_GotFocus" LostFocus="radMaskedAddress_LostFocus" Canvas.Left="176" Canvas.Top="100"/>
+                        <telerik:RadComboBox x:Name="cbxDistrict" EmptyText="---Select District---" FontWeight="Normal" Height="20" VerticalAlignment="Top" IsEnabled="False" GotFocus="cbxDistrict_GotFocus" LostFocus="cbxDistrict_LostFocus" Width="245" Canvas.Left="175" Canvas.Top="149">
+                            <telerik:RadComboBoxItem Content="Castries Urban" />
+                            <telerik:RadComboBoxItem Content="Castries Rural" />
+                            <telerik:RadComboBoxItem Content="Castries Central" />
+                            <telerik:RadComboBoxItem Content="Gros-Islet" />
+                            <telerik:RadComboBoxItem Content="Dennery" />
+                            <telerik:RadComboBoxItem Content="Micoud" />
+                            <telerik:RadComboBoxItem Content="Vieux-Fort" />
+                            <telerik:RadComboBoxItem Content="Choiseul" />
+                            <telerik:RadComboBoxItem Content="Soufriere" />
+                            <telerik:RadComboBoxItem Content="Anse-La-Raye" />
+                            <telerik:RadComboBoxItem Content="Canaries" />
+
+                        </telerik:RadComboBox>
+                        <telerik:RadMaskedNumericInput x:Name="radMaskedTeleNum" Width="244" Height="20"  Mask="#7" FormatString="(1758) {0}" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" GotFocus="radMaskedTeleNum_GotFocus" LostFocus="radMaskedTeleNum_LostFocus" Canvas.Left="176" Canvas.Top="199"/>
+
+                        <telerik:RadMaskedTextInput x:Name="radMaskedLegalAddress" Width="244" Height="20" InputBehavior="Replace"  Mask="a30" SelectionOnFocus="SelectAll" TextMode="PlainText" UpdateValueEvent="LostFocus" Value="" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" Canvas.Left="176" Canvas.Top="124" GotFocus="radMaskedLegalAddress_GotFocus" LostFocus="radMaskedLegalAddress_LostFocus" />
+                        <telerik:RadMaskedTextInput x:Name="radMaskedPostalCode" Width="244" Height="20" InputBehavior="Replace"  Mask="a30" SelectionOnFocus="SelectAll" TextMode="PlainText" UpdateValueEvent="LostFocus" Value="" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" Canvas.Left="176" Canvas.Top="174" GotFocus="radMaskedPostalCode_GotFocus" LostFocus="radMaskedPostalCode_LostFocus" />
+                        <telerik:RadMaskedNumericInput x:Name="radMaskedFAX" Width="244" Height="20"  Mask="#7" FormatString="(1758) {0}" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" Canvas.Left="176" Canvas.Top="223" GotFocus="radMaskedFAX_GotFocus" LostFocus="radMaskedFAX_LostFocus" />
+                        <telerik:RadMaskedTextInput x:Name="radMaskedEMAIL" Width="244" Height="20"  Mask="a30" Value="{Binding EmailAddress, Mode=TwoWay, NotifyOnValidationError=True, ValidatesOnExceptions=True}" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" Canvas.Left="176" Canvas.Top="249" GotFocus="radMaskedEMAIL_GotFocus" LostFocus="radMaskedEMAIL_LostFocus" />
+                        <telerik:RadMaskedTextInput x:Name="radMaskedURL" Width="244" Height="20" InputBehavior="Replace"  Mask="a30" SelectionOnFocus="SelectAll" TextMode="PlainText" UpdateValueEvent="LostFocus" Value="" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" Canvas.Left="176" Canvas.Top="274" GotFocus="radMaskedURL_GotFocus" LostFocus="radMaskedURL_LostFocus" />
+                        <telerik:RadMaskedTextInput x:Name="radMaskedGPS" Width="244" Height="20" InputBehavior="Replace"  Mask="a30" SelectionOnFocus="SelectAll" TextMode="PlainText" UpdateValueEvent="LostFocus" Value="" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" Canvas.Left="176" Canvas.Top="298" GotFocus="radMaskedGPS_GotFocus" LostFocus="radMaskedGPS_LostFocus" />
+                        <telerik:RadMaskedTextInput x:Name="radMaskedContactName" Width="244" Height="20" InputBehavior="Replace"  Mask="a30" SelectionOnFocus="SelectAll" TextMode="PlainText" UpdateValueEvent="LostFocus" Value="" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" Canvas.Left="176" Canvas.Top="348" GotFocus="radMaskedContactName_GotFocus" LostFocus="radMaskedContactName_LostFocus" />
+                        <telerik:RadComboBox x:Name="cbxContactTitle" EmptyText="---Select Contact Title---" FontWeight="Normal" Height="20" VerticalAlignment="Top" IsEnabled="False" Width="245" Canvas.Left="175" Canvas.Top="323" GotFocus="cbxContactTitle_GotFocus" LostFocus="cbxContactTitle_LostFocus" >
+                            <telerik:RadComboBoxItem Content=" Mr " />
+                            <telerik:RadComboBoxItem Content=" Mrs " />
+                            <telerik:RadComboBoxItem Content=" Ms " />
+                            <telerik:RadComboBoxItem Content=" Miss " />
+                            <telerik:RadComboBoxItem Content=" Madam " />
+                            <telerik:RadComboBoxItem Content=" Sir " />
+                            <telerik:RadComboBoxItem Content=" Duke " />
+                            <telerik:RadComboBoxItem Content=" Duchess " />
+                            <telerik:RadComboBoxItem Content=" Lord " />
+                            <telerik:RadComboBoxItem Content=" Baron " />
+                            <telerik:RadComboBoxItem Content=" Baroness " />
+                            <telerik:RadComboBoxItem Content=" Master " />
+                            <telerik:RadComboBoxItem Content=" Ambassador                                      " />
+                            <telerik:RadComboBoxItem Content=" Governor " />
+                            <telerik:RadComboBoxItem Content=" Mayor " />
+
+                        </telerik:RadComboBox>
+                        <telerik:RadMaskedNumericInput x:Name="radMaskedContactPhone" Width="244" Height="20"  Mask="#7" FormatString="(1758) {0}" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" Canvas.Left="176" Canvas.Top="373" GotFocus="radMaskedContactPhone_GotFocus" LostFocus="radMaskedContactPhone_LostFocus"/>
+                        <Canvas Height="416" Canvas.Top="2" Width="125">
+                            <telerik:Label x:Name="lblStatNum" Content="Statistical #" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#FF2B2F34" Height="20" FontSize="12"/>
+
+
+                            <telerik:Label x:Name="lblLegalName" Content="Legal Name" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="72"/>
+                            <telerik:Label x:Name="lblOperationalName"  Content="Operational Name" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="49"/>
+                            <telerik:Label x:Name="lblAddress" Content="Operational Address" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="98"/>
+
+                            <telerik:Label x:Name="lblDistrict" Content="District" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="148"/>
+
+
+                            <telerik:Label x:Name="lblTeleNum" Content="Telephone #" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="198"/>
+
+
+                            <telerik:Label x:Name="lblLegalAddress" Content="Legal Address" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="122"/>
+                            <telerik:Label x:Name="lblPostalCode" Content="Postal Code" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="172"/>
+                            <telerik:Label x:Name="lblFAX" Content="FAX #" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="220"/>
+                            <telerik:Label x:Name="lblEMAIL" Content="EMAIL" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="248"/>
+                            <telerik:Label x:Name="lblURL" Content="URL" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="272"/>
+                            <telerik:Label x:Name="lblGPS" Content="GPS" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="296"/>
+                            <telerik:Label x:Name="lblContactName" Content="Contact Name" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="348"/>
+                            <telerik:Label x:Name="lblContactTitle" Content="Contact Title" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="322"/>
+                            <telerik:Label x:Name="lblContactPhone" Content="Contact Phone" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="370"/>
+                            <telerik:Label x:Name="lblContactEmail" Content="Contact Email" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="396"/>
+                            <telerik:Label x:Name="lblUniqueID" Content="Unique ID" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#FF2B2F34" Height="20" FontSize="12" Canvas.Top="26"/>
+                        </Canvas>
+                        <telerik:RadMaskedTextInput x:Name="radMaskedContactEmail" Width="244" Height="20"  Mask="a30" Value="{Binding EmailAddress, Mode=TwoWay, NotifyOnValidationError=True, ValidatesOnExceptions=True}" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" Canvas.Left="176" Canvas.Top="397" GotFocus="radMaskedContactEmail_GotFocus" LostFocus="radMaskedContactEmail_LostFocus" />
+                        <telerik:RadMaskedTextInput x:Name="radMaskedUniqueID" Width="244" Height="20" InputBehavior="Replace" Mask="#10" SelectionOnFocus="SelectAll" TextMode="PlainText" UpdateValueEvent="LostFocus" Value="" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" Canvas.Left="176" Canvas.Top="26" GotFocus="radMaskedUniqueID_GotFocus" LostFocus="radMaskedUniqueID_LostFocus"/>
+
+                    </Canvas>
+
+                    <Grid>
+                        <telerik:Label x:Name="lblBusiType" Content="Business Type" HorizontalAlignment="Left" Margin="9,430,0,0" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12"/>
+                        <telerik:RadComboBox x:Name="cbxBusinessType" EmptyText="---Select Business Type---" FontWeight="Normal"  Margin="184,430,674,0" Height="20" VerticalAlignment="Top" IsEnabled="False" LostFocus="cbxBusinessType_LostFocus" GotFocus="cbxBusinessType_GotFocus" Width="245"/>
+                    </Grid>
+                    <Grid>
+                        <telerik:Label x:Name="lblBusiStatus" Content="Business Status" HorizontalAlignment="Left" Margin="9,455,0,0" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12"/>
+                        <telerik:RadComboBox x:Name="cbxBusinessStatus" EmptyText="---Select Business Status---" FontWeight="Normal"  Margin="184,456,674,0" Height="20" VerticalAlignment="Top" IsEnabled="False" GotFocus="cbxBusinessStatus_GotFocus" LostFocus="cbxBusinessStatus_LostFocus" Width="245"/>
+                    </Grid>
+                    <Canvas Margin="789,11,70,72">
+                        <telerik:RadMaskedTextInput x:Name="radMaskedLastUpdate" Width="244" Height="20" InputBehavior="Replace"  Mask="a30" SelectionOnFocus="SelectAll" TextMode="PlainText" UpdateValueEvent="LostFocus" Value="" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" GotFocus="radMaskedLastUpdate_GotFocus" LostFocus="radMaskedLastUpdate_LostFocus" Canvas.Top="506"/>
+                        <Canvas Height="501" Width="244">
+                            <Canvas Height="293" Width="244">
+                                <telerik:RadMaskedCurrencyInput x:Name="radMaskedRevenue" Width="244" Height="20"  Mask="#10.2" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" GotFocus="radMaskedRevenue_GotFocus" LostFocus="radMaskedRevenue_LostFocus"/>
+                                <telerik:RadComboBox x:Name="cbxRevenueSRC" EmptyText="---Select Revenue Source---" FontWeight="Normal" Height="20" VerticalAlignment="Top" IsEnabled="False" GotFocus="cbxRevenueSRC_GotFocus" LostFocus="cbxRevenueSRC_LostFocus" Canvas.Top="26" Width="244">
+                                    <telerik:RadComboBoxItem Content="CSO" />
+                                    <telerik:RadComboBoxItem Content="IRD" />
+                                    <telerik:RadComboBoxItem Content="NIC" />
+                                    <telerik:RadComboBoxItem Content="VAT" />
+                                    <telerik:RadComboBoxItem Content="REG" />
+                                </telerik:RadComboBox>
+                                <telerik:RadDatePicker  x:Name="dateRevenue" Height="20" VerticalAlignment="Top" IsEnabled="False" GotFocus="dateRevenue_GotFocus" LostFocus="dateRevenue_LostFocus" Canvas.Top="53" Width="244" />
+                                <telerik:RadMaskedNumericInput x:Name="radMaskedNumEmploy" Width="244" Height="20"  Mask="#7" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" GotFocus="radMaskedNumEmploy_GotFocus" LostFocus="radMaskedNumEmploy_LostFocus" Value="0" Canvas.Top="81"/>
+                                <telerik:RadComboBox x:Name="cbxEmployeesSRC" EmptyText="--Select Employees Source--" FontWeight="Normal" Height="20" VerticalAlignment="Top" IsEnabled="False" GotFocus="cbxEmployeesSRC_GotFocus" LostFocus="cbxEmployeesSRC_LostFocus" Canvas.Top="107" Width="244">
+                                    <telerik:RadComboBoxItem Content="CSO" />
+                                    <telerik:RadComboBoxItem Content="IRD" />
+                                    <telerik:RadComboBoxItem Content="NIC" />
+                                    <telerik:RadComboBoxItem Content="VAT" />
+                                    <telerik:RadComboBoxItem Content="REG" />
+                                </telerik:RadComboBox>
+                                <telerik:RadDatePicker x:Name="dateEmployees" Height="20" VerticalAlignment="Top" IsEnabled="False" GotFocus="dateEmployees_GotFocus" LostFocus="dateEmployees_LostFocus" Canvas.Top="135" Width="244" />
+                                <telerik:RadMaskedNumericInput x:Name="radMaskedSalEmploy" Width="244" Height="20"  Mask="#7" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" GotFocus="radMaskedSalEmploy_GotFocus" LostFocus="radMaskedSalEmploy_LostFocus" Canvas.Top="162"/>
+                                <telerik:RadComboBox x:Name="cbxSalariedEmployeesSRC" EmptyText="---Salaried Employees Source---" FontWeight="Normal" Height="20" VerticalAlignment="Top" IsEnabled="False" GotFocus="cbxSalariedEmployeesSRC_GotFocus" LostFocus="cbxSalariedEmployeesSRC_LostFocus" Canvas.Top="188" Width="244">
+                                    <telerik:RadComboBoxItem Content="CSO" />
+                                    <telerik:RadComboBoxItem Content="IRD" />
+                                    <telerik:RadComboBoxItem Content="NIC" />
+                                    <telerik:RadComboBoxItem Content="VAT" />
+                                    <telerik:RadComboBoxItem Content="REG" />
+                                </telerik:RadComboBox>
+                                <telerik:RadDatePicker x:Name="dateSalariedEmployees" Height="20" VerticalAlignment="Top" IsEnabled="False" GotFocus="dateSalariedEmployees_GotFocus" LostFocus="dateSalariedEmployees_LostFocus" Canvas.Top="217" Width="244" />
+                                <telerik:RadMaskedCurrencyInput x:Name="radMaskedSales" Width="244" Height="20"  Mask="#10.2" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" GotFocus="radMaskedSales_GotFocus" LostFocus="radMaskedSales_LostFocus_1" Canvas.Top="244"/>
+                                <telerik:RadComboBox x:Name="cbxSalesSRC" EmptyText="---Select Sales Source---" FontWeight="Normal" Height="20" VerticalAlignment="Top" IsEnabled="False" GotFocus="cbxSalesSRC_GotFocus" LostFocus="cbxSalesSRC_LostFocus" Canvas.Top="271" Width="244">
+                                    <telerik:RadComboBoxItem Content="CSO" />
+                                    <telerik:RadComboBoxItem Content="IRD" />
+                                    <telerik:RadComboBoxItem Content="NIC" />
+                                    <telerik:RadComboBoxItem Content="VAT" />
+                                    <telerik:RadComboBoxItem Content="REG" />
+                                </telerik:RadComboBox>
+                                <telerik:RadComboBox x:Name="cbxISIC" EmptyText="---Select ISIC value---" FontWeight="Normal" Height="20" VerticalAlignment="Top" IsEnabled="False" Canvas.Top="400" Width="244" GotFocus="cbxISIC_GotFocus" LostFocus="cbxISIC_LostFocus" />
+
+                            </Canvas>
+                            <telerik:RadDatePicker x:Name="dateSales" Height="20" VerticalAlignment="Top" IsEnabled="False" GotFocus="dateSales_GotFocus" LostFocus="dateSales_LostFocus" Canvas.Top="297" Width="244" />
+                            <telerik:RadMaskedCurrencyInput x:Name="radMaskedWages" Width="244" Height="20"  Mask="#10.2" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" GotFocus="radMaskedWages_GotFocus" LostFocus="radMaskedWages_LostFocus" Canvas.Top="322"/>
+                            <telerik:RadComboBox x:Name="cbxWagesSRC" EmptyText="---Select Wages Source---" FontWeight="Normal" Height="20" VerticalAlignment="Top" IsEnabled="False" GotFocus="cbxWagesSRC_GotFocus" LostFocus="cbxWagesSRC_LostFocus" Canvas.Top="349" Width="244">
+                                <telerik:RadComboBoxItem Content="CSO" />
+                                <telerik:RadComboBoxItem Content="IRD" />
+                                <telerik:RadComboBoxItem Content="NIC" />
+                                <telerik:RadComboBoxItem Content="VAT" />
+                                <telerik:RadComboBoxItem Content="REG" />
+                            </telerik:RadComboBox>
+                            <telerik:RadDatePicker x:Name="dateWages" Height="20" VerticalAlignment="Top" IsEnabled="False" GotFocus="dateWages_GotFocus" LostFocus="dateWages_LostFocus" Canvas.Top="375" Width="244" />
+                            <telerik:RadComboBox x:Name="cbxISICSRC" EmptyText="---Select ISIC Source---" FontWeight="Normal" Height="20" VerticalAlignment="Top" IsEnabled="False" GotFocus="cbxISICSRC_GotFocus" LostFocus="cbxISICSRC_LostFocus" Canvas.Top="425" Width="244">
+                                <telerik:RadComboBoxItem Content="CSO" />
+                                <telerik:RadComboBoxItem Content="IRD" />
+                                <telerik:RadComboBoxItem Content="NIC" />
+                                <telerik:RadComboBoxItem Content="VAT" />
+                                <telerik:RadComboBoxItem Content="REG" />
+                            </telerik:RadComboBox>
+                            <telerik:RadDatePicker x:Name="dateISIC" Height="20" VerticalAlignment="Top" IsEnabled="False" GotFocus="dateISIC_GotFocus" LostFocus="dateISIC_LostFocus" Canvas.Top="452" Width="244" />
+                            <telerik:RadComboBox x:Name="cbxSector" EmptyText="---Select Sector---" FontWeight="Normal" Height="20" VerticalAlignment="Top" IsEnabled="False" LostFocus="cbxSector_LostFocus" GotFocus="cbxSector_GotFocus" Canvas.Top="479" Width="244">
+                                <!--<telerik:RadComboBoxItem Content="FOR" />
+                                    <telerik:RadComboBoxItem Content="GOV" />
+                                    <telerik:RadComboBoxItem Content="PRI" />
+                                    <telerik:RadComboBoxItem Content="PUB" />
+                                    <telerik:RadComboBoxItem Content="SEF" />
+                                    <telerik:RadComboBoxItem Content="STB" />-->
+
+                            </telerik:RadComboBox>
+                        </Canvas>
+                    </Canvas>
+                    <Canvas Margin="566,11,377,69">
+                        <Canvas Height="452" Width="160">
+                            <Canvas Height="324" Width="160">
+
+                                <telerik:Label x:Name="lblrevenue" Content="Revenue" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Left="1"/>
+
+                                <telerik:Label x:Name="lblrevenueSRC"  Content="Revenue Source" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Left="1" Canvas.Top="24"/>
+
+                                <telerik:Label x:Name="lbldateRevenue" Content="Revenue Date" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Left="1" Canvas.Top="56"/>
+
+                                <telerik:Label x:Name="lblNumEmploy" Content="No. of Employees" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Left="1" Canvas.Top="85"/>
+
+                                <telerik:Label x:Name="lblEmployeeSRC" Content="Employees Source" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Left="1" Canvas.Top="109"/>
+                                <telerik:Label x:Name="lbldateEmployee"  Content="Employees Date" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Left="1" Canvas.Top="135"/>
+
+
+                                <telerik:Label x:Name="lblSalEmploy" Content="Salaried Employees" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="161"/>
+
+                                <telerik:Label x:Name="lblSalEmpSRC" Content="Salaried Employees Source" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="187"/>
+
+                                <telerik:Label x:Name="lblDateSalEmp" Content="Salaried Employees Date" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="215"/>
+
+                                <telerik:Label x:Name="lblSales" Content="Sales" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="240"/>
+
+                                <telerik:Label x:Name="lblSalesSRC" Content="Sales Source" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="271"/>
+                                <telerik:Label x:Name="lbldateSales" Content="Sales Date" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="295"/>
+                            </Canvas>
+
+                            <telerik:Label x:Name="lblWages" Content="Wages" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="321"/>
+
+                            <telerik:Label x:Name="lblWagesSRC" Content="Wages Source" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="348"/>
+
+                            <telerik:Label x:Name="lblDateWages" Content="Wages Date" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="375"/>
+
+                            <telerik:Label x:Name="lblISIC" Content="ISIC" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="396"/>
+
+                            <telerik:Label x:Name="lblISICSRC" Content="ISIC Source" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="423"/>
+                        </Canvas>
+
+                        <telerik:Label x:Name="lblDateISIC" Content="ISIC Date" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="450"/>
+
+                        <telerik:Label x:Name="lblLastUpdate" Content="Last Updated By" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="502"/>
+
+                        <telerik:Label x:Name="lblSector" Content="Sector" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="475"/>
+                    </Canvas>
+                    <telerik:RadButton x:Name="btnSubmitToDB" Margin="807,576,85,-6" Foreground="#FF000000" Content="Submit New Business" ToolTip="Please press this button to commit changes to Database" Height="41" VerticalAlignment="Top" Click="RadButton_Click" IsEnabled="False" FontSize="18" FontWeight="ExtraBlack"/>
+                    <Canvas Margin="8,478,961,31">
+                        <telerik:Label x:Name="lblYearBegunOper" Content="Year Begun Operation" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Foreground="#FF2B2F34" FontSize="12"/>
+                        <telerik:Label x:Name="lblFiscalPeriodStart" Content="Fiscal Period Start" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="28"/>
+                        <telerik:Label x:Name="lblFiscalPeriodEnd" Content="Fiscal Period End" HorizontalAlignment="Left" VerticalAlignment="Top" Height="29" Foreground="#FF2B2F34" FontSize="12" Canvas.Top="54"/>
+                        <telerik:Label x:Name="lblPercentForeign" Content="% Foreign Owned" HorizontalAlignment="Left" VerticalAlignment="Top" Height="20" Foreground="#FF2B2F34" FontSize="12" Canvas.Left="1" Canvas.Top="82"/>
+                    </Canvas>
+                    <telerik:RadDatePicker x:Name="dateYearBegunOper" Height="20" Margin="185,482,674,0" VerticalAlignment="Top" IsEnabled="False" GotFocus="dateYearBegunOper_GotFocus" LostFocus="dateYearBegunOper_LostFocus"  />
+                    <telerik:RadDatePicker x:Name="dateFiscalPeriodStart" Height="20" Margin="185,508,674,0" VerticalAlignment="Top" IsEnabled="False" GotFocus="dateFiscalPeriodStart_GotFocus" LostFocus="dateFiscalPeriodStart_LostFocus"  />
+                    <telerik:RadDatePicker x:Name="dateFiscalPeriodEnd" Height="20" Margin="185,534,674,0" VerticalAlignment="Top" IsEnabled="False" GotFocus="dateFiscalPeriodEnd_GotFocus" LostFocus="dateFiscalPeriodEnd_LostFocus"  />
+                    <telerik:RadMaskedTextInput x:Name="radMaskedPercentForeign" Width="244" Height="20" Margin="185,560,0,0" InputBehavior="Replace"  Mask="a30" SelectionOnFocus="SelectAll" TextMode="PlainText" UpdateValueEvent="LostFocus" Value="" IsEnabled="False" VerticalAlignment="Top" FontWeight="Normal" GotFocus="radMaskedPercentForeign_GotFocus" LostFocus="radMaskedPercentForeign_LostFocus" />
+
+                </Grid>
+
+
+                <!-- </GroupBox> -->
+            </GroupBox>
+        </Grid>
+
+    </telerik:RadTabItem>
+    <!-- Add new business tab end-->
+
+
+
+    <telerik:RadTabItem x:Name="BRMFTab" Header="Update via BRMF"  Background="#FF7495EE" Width="169" FontWeight="Bold" FontSize="14" ScrollViewer.HorizontalScrollBarVisibility="Auto" GotFocus="BRMFTab_GotFocus">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="91*"/>
+                <ColumnDefinition Width="1032*"/>
+            </Grid.ColumnDefinitions>
+            <telerik:RadButton x:Name="btnBrowseBRMF" Foreground="#FF000000" Content=" Browse For File &gt;&gt;" ToolTip="Plese press button to browse for BRMF file" Height="28" VerticalAlignment="Top" Margin="34,48,779,0" Click="btnBrowseBRMF_Click" Grid.ColumnSpan="2" FontWeight="Bold"/>
+            <!--this tab is for updating the BR via the BRMF-->
+            <telerik:RadComboBox x:Name="cbxSelectBRMFTab" EmptyText="---Select BRMF Tab---" FontWeight="Bold"  Margin="317,48,558,0" Height="26" VerticalAlignment="Top" Grid.Column="1" TextOptions.TextFormattingMode="Display">
+                <telerik:RadComboBoxItem Content="BRMF_Matched_Estab" />
+                <telerik:RadComboBoxItem Content="BRMF_Unmatched_Estab" />
+                <telerik:RadComboBoxItem Content="IRD" />
+                <telerik:RadComboBoxItem Content="NIC" />
+                <telerik:RadComboBoxItem Content="VAT" Margin="0" />
+            </telerik:RadComboBox>
+            <Label Content="STEP: 1" Foreground="#FFF19105" Margin="65,13,875,622" Height="27" Grid.Column="1" />
+            <telerik:RadComboBox x:Name="cbxSelectBRUpdateType" EmptyText="--- BR Update Type---" FontWeight="Bold"  Margin="541,48,334,0" Height="26" VerticalAlignment="Top" Grid.Column="1" TextOptions.TextFormattingMode="Display">
+                <telerik:RadComboBoxItem Content="BR_Initialization" />
+                <telerik:RadComboBoxItem Content="BR_Maintenance" />
+            </telerik:RadComboBox>
+
+            <telerik:RadButton x:Name="btnUpdateBRMF" Foreground="#FF000000" Content="Update" ToolTip="Please press this button to update Core BR table" Height="27" VerticalAlignment="Top" Click="btnUpdateBRMF_Click" Margin="771,48,43,0" Grid.Column="1"/>
+
+            <telerik:RadBusyIndicator x:Name="BusyIndicator" Grid.ColumnSpan="2" Margin="0,102,0,0">
+                <Grid Grid.ColumnSpan="2" Margin="10,97,10,32">
+                    <GroupBox Header="BRMF SPREADSHEET VIEW" Margin="10,-92,10,0" BorderThickness="3" BorderBrush="#FFB0C0C9" Foreground="#FF174E9E" >
+                        <telerik:RadSpreadsheet x:Name="BRMFspreadsheet" HorizontalAlignment="Left" VerticalAlignment="Top" Height="484" Margin="0,6,0,-105" Width="1068" WorkbookContentChanged="BRMFspreadsheet_WorkbookContentChanged" WorkbookChanged="BRMFspreadsheet_WorkbookChanged" />
+                    </GroupBox>
+                </Grid>
+            </telerik:RadBusyIndicator>
+            <Label Content="STEP: 2" Foreground="#FFF19105" Margin="359,13,581,622" Height="27" Grid.Column="1" />
+            <Label Content="STEP: 3" Foreground="#FFF19105" Margin="581,13,359,622" Height="27" Grid.Column="1" />
+            <Label Content="STEP: 4" Foreground="#FFF19105" Margin="851,13,89,622" Height="27" Grid.Column="1" />
+
+
+
+        </Grid>
+
+    </telerik:RadTabItem>
+
+    </telerik:RadTabControl>
+
+    </DockPanel>
+    <StatusBar x:Name="Mainstatusbar" x:FieldModifier="public" HorizontalAlignment="Stretch" Height="36" VerticalAlignment="Bottom" Background="#FFFBF8F8" >
+        <StatusBarItem>
+            <Label x:Name="statusbarlabel" x:FieldModifier="public" Content="Ready ..." Height="26" Width="482" Foreground="#FF4E6476" FontWeight="Bold"/>
+        </StatusBarItem>
+        <StatusBarItem>
+            <telerik:RadButton  x:Name="BtnViewLogs" Content="View Logs" ToolTip="Click this Button to view Logs" Height="30" Margin="0,0,5,0" Visibility="Collapsed" Click="BtnViewLogs_Click" Background="#FFD7E4F2"  />
+        </StatusBarItem>
+        <Separator />
+        <Label Content="Loading ..." Foreground="#FFBB2B1C" FontWeight="Bold"/>
+        <telerik:RadProgressBar x:Name="statusbarprogressbar" Width="391" Value="67" Foreground="#FFB2EEF3"/>
+        <Separator />
+        <Label  x:Name="statusbaruserlabel"  Content="User: " Foreground="#FF4E6476" FontWeight="Bold"/>
+
+    </StatusBar>
+
+    <telerik:RadMenu Margin="10,10,10,0" VerticalAlignment="Top" Background="#FFC8CCD8" Height="40">
+
+        <telerik:RadMenu.Effect>
+            <DropShadowEffect Color="White" BlurRadius="10"/>
+        </telerik:RadMenu.Effect>
+        <telerik:RadMenuItem x:Name="fileMenuItem"  Header="    FILE" FontSize="16" Margin="16,1,-54,-1" Width="80" Foreground="#FF151515" FontWeight="Bold" HorizontalAlignment="Left">
+            <telerik:RadMenuItem x:Name="ConfigureDB1" Header="Configure DB Connection" Click="ConfigureDB_Click"/>
+            <telerik:RadMenuItem x:Name="inputTextFile1" Header="Input text file" Click="RadMenuItem_Click_1"/>
+            <telerik:RadMenuItem x:Name="ExportTable" Header="Export Database Table" Click="ExportTable_Click" />
+            <telerik:RadMenuItem x:Name="ShowBRdetails" Header="View details of selected Business" Click="ShowBRdetails_Click" />
+        </telerik:RadMenuItem>
+        <telerik:RadMenuItem x:Name="TreeViewMenuItem" Header="TREE VIEW" FontSize="16" Margin="68,1,-184,-1" Foreground="#FF151515" FontWeight="Bold" Height="31" VerticalAlignment="Top"/>
+        <telerik:RadMenuItem x:Name="ConfigureMenuItem" Header="CONFIGURE" FontSize="16" Margin="199,1,-189,-1" HorizontalAlignment="Left" Width="113" Foreground="#FF151515" FontWeight="Bold">
+            <telerik:RadMenuItem x:Name="ConfigureDB" Header="Configure DB Connection" Click="ConfigureDB_Click"/>
+            <!--<telerik:RadMenuItem x:Name="inputTextFile" Header="Input text file" Click="RadMenuItem_Click_1"/>-->
+            <telerik:RadMenuItem Header="Sub Item 3"/>
+            <telerik:RadMenuItem Header="Sub Item 4"/>
+            <telerik:RadMenuItem Header="Sub Item 5"/>
+        </telerik:RadMenuItem>
+
+        <telerik:RadMenuItem x:Name="helpMenuItem"  Header="    HELP" FontSize="16" Foreground="#FF151515" FontWeight="Bold" Margin="201,0,-201,0" >
+            <telerik:RadMenuItem x:Name="dataDictMenuItem" Header="View Data Dictionary" />
+            <telerik:RadMenuItem x:Name="documentationMenuItem" Header="View Documentation" />
+            <telerik:RadMenuItem x:Name="TutorialMenuItem" Header="View Tutorial" />
+
+        </telerik:RadMenuItem>
+        <telerik:RadMenuItem x:Name="exitprogram"  Header="    EXIT PROGRAM" FontSize="16" Foreground="#FF151515" FontWeight="Bold" Margin="201,0,-201,0" Click="exitprogram_Click" />
+
+
+
+        <!--<telerik:RadMenuSeparatorItem Header="RadMenuItem" HorizontalAlignment="Left" Margin="-73,3,0,-3" />
+            <telerik:RadMenuSeparatorItem Header="RadMenuItem" HorizontalAlignment="Left" Margin="70,2,-76,-2" />-->
+
+
+    </telerik:RadMenu>
+
+
+
+
+    </Grid>
+
+</Window>
+<!--<Grid>
+    <telerik:RadToolBar>
+
+    </telerik:RadToolBar >
+</Grid> -->

@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="BRDBModel" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="BRDBContainer" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="IRDs" EntityType="BRDBModel.IRD" />
+    <EntitySet Name="VATs" EntityType="BRDBModel.VAT" />
+    <EntitySet Name="NICs" EntityType="BRDBModel.NIC" />
+    <EntitySet Name="StatsBRSecondaries" EntityType="BRDBModel.StatsBRSecondary" />
+    <AssociationSet Name="IRDVAT" Association="BRDBModel.IRDVAT">
+      <End Role="IRD" EntitySet="IRDs" />
+      <End Role="VAT" EntitySet="VATs" />
+    </AssociationSet>
+    <AssociationSet Name="IRDNIC" Association="BRDBModel.IRDNIC">
+      <End EntitySet="IRDs" Role="IRD" />
+      <End EntitySet="NICs" Role="NIC" />
+    </AssociationSet>
+    <AssociationSet Name="IRDStatsBR" Association="BRDBModel.IRDStatsBR">
+      <End Role="IRD" EntitySet="IRDs" />
+      <End Role="StatsBR" EntitySet="StatsBRSecondaries" />
+    </AssociationSet>
+    <EntitySet Name="Contacts" EntityType="BRDBModel.Contact" />
+    <AssociationSet Name="ContactStatsBR" Association="BRDBModel.ContactStatsBR">
+      <End Role="Contact" EntitySet="Contacts" />
+      <End Role="StatsBR" EntitySet="StatsBRSecondaries" />
+    </AssociationSet>
+    <EntitySet Name="StatsBRPrimaries" EntityType="BRDBModel.StatsBRPrimary" />
+    <AssociationSet Name="StatsBRPrimaryStatsBRSecondary" Association="BRDBModel.StatsBRPrimaryStatsBRSecondary">
+      <End Role="StatsBRPrimary" EntitySet="StatsBRPrimaries" />
+      <End Role="StatsBRSecondary" EntitySet="StatsBRSecondaries" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="IRD">
+    <Key>
+      <PropertyRef Name="IrdNum" />
+    </Key>
+    <Property Type="Int32" Name="IrdNum" Nullable="false" annotation:StoreGeneratedPattern="None">
+      <Documentation>
+        <LongDescription>Primary key for the IRD table</LongDescription>
+      </Documentation>
+    </Property>
+    <Property Type="String" Name="Name" Nullable="false">
+      <Documentation>
+        <LongDescription>Name of business of establishment</LongDescription>
+      </Documentation>
+    </Property>
+    <Property Type="String" Name="TradeName" Nullable="false">
+      <Documentation>
+        <LongDescription>Legal trading Name for Business</LongDescription>
+      </Documentation>
+    </Property>
+    <Property Name="MailingAddress" Nullable="false" Type="String" />
+    <Property Type="String" Name="MailingCity" Nullable="false" />
+    <Property Type="String" Name="PhoneNumber" Nullable="true" />
+    <Property Type="String" Name="FaxNumber" Nullable="true" />
+    <Property Type="String" Name="Email" Nullable="true" />
+    <Property Type="String" Name="ValTaxSupply" Nullable="true" />
+    <Property Type="String" Name="PrimaryIsic" Nullable="true" />
+    <Property Type="String" Name="SecondaryIsic" Nullable="true" />
+    <Property Type="String" Name="TaxSupStartDate" Nullable="true" />
+    <Property Type="String" Name="LegalStatus" Nullable="true" />
+    <Property Type="String" Name="Representative" Nullable="true" />
+    <NavigationProperty Name="VATs" Relationship="BRDBModel.IRDVAT" FromRole="IRD" ToRole="VAT" />
+    <NavigationProperty Name="NICs" Relationship="BRDBModel.IRDNIC" FromRole="IRD" ToRole="NIC" />
+    <NavigationProperty Name="StatsBRs" Relationship="BRDBModel.IRDStatsBR" FromRole="IRD" ToRole="StatsBR" />
+  </EntityType>
+  <EntityType Name="VAT">
+    <Key>
+      <PropertyRef Name="VatNum" />
+      <PropertyRef Name="IrdNum" />
+    </Key>
+    <Property Type="Int32" Name="VatNum" Nullable="false" annotation:StoreGeneratedPattern="None" />
+    <Property Type="Int32" Name="IrdNum" Nullable="false" />
+    <Property Type="Int32" Name="Year" Nullable="true" />
+    <Property Type="Int32" Name="Month" Nullable="true" />
+    <Property Type="Double" Name="StandardRatedSupplies" Nullable="true" />
+    <Property Type="Double" Name="Hotel" Nullable="true" />
+    <Property Type="Double" Name="ZeroRatedSupplies" Nullable="true" />
+    <Property Type="Double" Name="ExemptSupplies" Nullable="true" />
+    <Property Type="Double" Name="TotalSupplies" Nullable="true" />
+    <Property Type="Double" Name="TotalOutputTax" Nullable="true" />
+    <NavigationProperty Name="IRD" Relationship="BRDBModel.IRDVAT" FromRole="VAT" ToRole="IRD" />
+  </EntityType>
+  <EntityType Name="NIC">
+    <Key>
+      <PropertyRef Name="NicNum" />
+    </Key>
+    <Property Type="Int32" Name="NicNum" Nullable="false" annotation:StoreGeneratedPattern="None" />
+    <Property Type="String" Name="IrdNum" Nullable="true" />
+    <Property Type="String" Name="Name" Nullable="false" />
+    <Property Type="String" Name="RegistrarOfCompNum" Nullable="true" />
+    <Property Type="String" Name="TradeName" Nullable="false" />
+    <Property Type="String" Name="AddressLine1" Nullable="true" />
+    <Property Type="String" Name="AddressLine2" Nullable="true" />
+    <Property Type="String" Name="District" Nullable="true" />
+    <Property Type="String" Name="Location" Nullable="true" />
+    <Property Type="String" Name="Phone" Nullable="true" />
+    <Property Type="String" Name="Email" Nullable="true" />
+    <Property Type="DateTime" Name="DateOfRegistration" Nullable="true" />
+    <Property Type="Int32" Name="NoOfEmployees" Nullable="true" />
+    <Property Type="Double" Name="TotalContributions" Nullable="true" />
+    <Property Type="String" Name="Sector" Nullable="true" />
+    <Property Type="String" Name="NatureOfBusiness" Nullable="true" />
+    <NavigationProperty Name="IRD" Relationship="BRDBModel.IRDNIC" FromRole="NIC" ToRole="IRD" />
+  </EntityType>
+  <EntityType Name="StatsBRSecondary">
+    <Key>
+      <PropertyRef Name="StatsNum" />
+    </Key>
+    <Property Type="Int32" Name="StatsNum" Nullable="false" annotation:StoreGeneratedPattern="None">
+      <Documentation>
+        <LongDescription>Primary key for statsBR database</LongDescription>
+      </Documentation>
+    </Property>
+    <Property Type="Int32" Name="IrdNum" Nullable="false">
+      <Documentation>
+        <Summary>Foreign key to link StatsBRSecondary and IRD tables respectively, note that there is not a strict one to one relation
+as there may be records that exist in one and not the other.
+    </Summary>
+        <LongDescription>Foreign key  to link IRD table</LongDescription>
+      </Documentation>
+    </Property>
+    <Property Type="String" Name="NicNum" Nullable="true">
+      <Documentation>
+        <Summary>Foreign key to link StatsBRSecondary and NIC tables respectively, note that there is not a strict one to one relation
+as there may be records that exist in one and not the other.</Summary>
+        <LongDescription>Primary key for the NIC table</LongDescription>
+      </Documentation>
+    </Property>
+    <Property Type="Int32" Name="RegNum" Nullable="true">
+      <Documentation>
+        <Summary>Number from the registrar of companies uniquely identifying a business</Summary>
+      </Documentation>
+    </Property>
+    <Property Type="String" Name="VatNum" Nullable="true">
+      <Documentation>
+        <LongDescription>primary key for the VAT table</LongDescription>
+      </Documentation>
+    </Property>
+    <Property Type="Int32" Name="ParentStatsNum" Nullable="true">
+      <Documentation>
+        <Summary>if business is enterprise the parent statistical number will 
+be the same as the stasNum ...if it is an establishment, the parent stats number will be the enterprise statsNum...see powerpoint
+example from stats cananda.."
+
+</Summary>
+        <LongDescription>enterprise stats number</LongDescription>
+      </Documentation>
+    </Property>
+    <Property Type="Int32" Name="EnterpriseStatsNum" Nullable="true">
+      <Documentation>
+        <Summary>if business is enterprise then it will be the same as statsNum</Summary>
+        <LongDescription>stats number of enterprise</LongDescription>
+      </Documentation>
+    </Property>
+    <Property Type="Int32" Name="EstabStatsNum" Nullable="true">
+      <Documentation>
+        <Summary>If current business is establishment then the statsNUM will be the same but the enterprisestatsNUm
+ will be the same as ParentstatsNum.</Summary>
+      </Documentation>
+    </Property>
+    <Property Type="Int32" Name="TaxAccountNum" Nullable="true" />
+    <Property Type="Int32" Name="TaxIDNum" Nullable="true" />
+    <Property Type="Boolean" Name="EnterpriseFlag" Nullable="true" />
+    <Property Type="Boolean" Name="EstablishmentFlag" Nullable="true" />
+    <Property Type="String" Name="RegisteredName" Nullable="true" />
+    <Property Type="String" Name="TradeName" Nullable="true" />
+    <Property Type="String" Name="OperationalAddress" Nullable="true">
+      <Documentation>
+        <LongDescription>Stores operational address of Business</LongDescription>
+      </Documentation>
+    </Property>
+    <Property Type="Double" Name="OperatingRevenue" Nullable="true">
+      <Documentation>
+        <LongDescription>Stores(*monthly) revenue generated by business</LongDescription>
+      </Documentation>
+    </Property>
+    <Property Type="String" Name="LegalStatus" Nullable="true" />
+    <Property Type="Boolean" Name="OperationalStatus" Nullable="true">
+      <Documentation>
+        <LongDescription>Whether the business is active or inactive</LongDescription>
+      </Documentation>
+    </Property>
+    <Property Type="Int32" Name="ISIC" Nullable="true" />
+    <Property Type="Int32" Name="NumOfEmployees" Nullable="true" />
+    <Property Type="Int32" Name="NumOfWageEarners" Nullable="true" />
+    <Property Type="Int32" Name="NumSalariedEmp" Nullable="true" />
+    <Property Type="Double" Name="TotalNicContribution" Nullable="true" />
+    <NavigationProperty Name="IRD" Relationship="BRDBModel.IRDStatsBR" FromRole="StatsBR" ToRole="IRD" />
+    <NavigationProperty Name="Contact" Relationship="BRDBModel.ContactStatsBR" FromRole="StatsBR" ToRole="Contact" />
+    <NavigationProperty Name="StatsBRPrimary" Relationship="BRDBModel.StatsBRPrimaryStatsBRSecondary" FromRole="StatsBRSecondary" ToRole="StatsBRPrimary" />
+  </EntityType>
+  <Association Name="IRDVAT">
+    <End Type="BRDBModel.IRD" Role="IRD" Multiplicity="1" />
+    <End Type="BRDBModel.VAT" Role="VAT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="IRD">
+        <PropertyRef Name="IrdNum" />
+      </Principal>
+      <Dependent Role="VAT">
+        <PropertyRef Name="IrdNum" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="IRDNIC">
+    <End Type="BRDBModel.IRD" Multiplicity="0..1" Role="IRD" />
+    <End Type="BRDBModel.NIC" Multiplicity="0..1" Role="NIC" />
+  </Association>
+  <Association Name="IRDStatsBR">
+    <End Type="BRDBModel.IRD" Role="IRD" Multiplicity="0..1" />
+    <End Type="BRDBModel.StatsBRSecondary" Role="StatsBR" Multiplicity="0..1" />
+  </Association>
+  <EntityType Name="Contact">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Type="Int32" Name="Id" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Type="Int32" Name="StatsNum" Nullable="false" />
+    <Property Type="Int32" Name="BuildingNum" Nullable="true" />
+    <Property Type="String" Name="Area" Nullable="true" />
+    <Property Type="String" Name="District" Nullable="true" />
+    <Property Type="String" Name="Street" Nullable="true" />
+    <Property Type="String" Name="POBox" Nullable="true" />
+    <Property Type="String" Name="Phone1" Nullable="true" />
+    <Property Type="String" Name="Phone2" Nullable="true" />
+    <Property Type="String" Name="Fax" Nullable="true" />
+    <Property Type="String" Name="Email1" Nullable="true" />
+    <Property Type="String" Name="Email2" Nullable="true" />
+    <NavigationProperty Name="StatsBRs" Relationship="BRDBModel.ContactStatsBR" FromRole="Contact" ToRole="StatsBR" />
+    <Property Type="Binary" Name="Active" Nullable="true">
+      <Documentation>
+        <LongDescription>is this the current contact or address </LongDescription>
+      </Documentation>
+    </Property>
+  </EntityType>
+  <Association Name="ContactStatsBR">
+    <End Type="BRDBModel.Contact" Role="Contact" Multiplicity="*" />
+    <End Type="BRDBModel.StatsBRSecondary" Role="StatsBR" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="StatsBR">
+        <PropertyRef Name="StatsNum" />
+      </Principal>
+      <Dependent Role="Contact">
+        <PropertyRef Name="StatsNum" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="StatsBRPrimary">
+    <Key>
+      <PropertyRef Name="StatsNum" />
+    </Key>
+    <Property Name="StatsNum" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="None" />
+    <Property Name="EDNum" Type="String" Nullable="true" />
+    <Property Name="BusinessType" Type="String" Nullable="true" />
+    <Property Name="SecondaryActivity" Type="String" Nullable="true" />
+    <Property Name="PrimaryActivity" Type="String" Nullable="true" />
+    <Property Name="PercentageForeignOwned" Type="String" Nullable="true" />
+    <Property Name="ForeignPresence" Type="Boolean" Nullable="true" />
+    <Property Name="Sector" Type="String" Nullable="true" />
+    <Property Name="ContactPerson" Type="String" Nullable="true" />
+    <Property Name="FormType" Type="String" Nullable="true" />
+    <Property Name="LastUpdated" Type="DateTime" Nullable="true" />
+    <Property Name="DistrictCode" Type="String" Nullable="true" />
+    <Property Name="SettlementCode" Type="String" Nullable="true" />
+    <NavigationProperty Name="StatsBRSecondaries" Relationship="BRDBModel.StatsBRPrimaryStatsBRSecondary" FromRole="StatsBRPrimary" ToRole="StatsBRSecondary" />
+  </EntityType>
+  <Association Name="StatsBRPrimaryStatsBRSecondary">
+    <End Type="BRDBModel.StatsBRPrimary" Role="StatsBRPrimary" Multiplicity="1" />
+    <End Type="BRDBModel.StatsBRSecondary" Role="StatsBRSecondary" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="StatsBRSecondary">
+        <PropertyRef Name="StatsNum" />
+      </Principal>
+      <Dependent Role="StatsBRPrimary">
+        <PropertyRef Name="StatsNum" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

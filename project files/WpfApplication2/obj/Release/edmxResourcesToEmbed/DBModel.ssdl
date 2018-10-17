@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BRDBModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="BRDBModelStoreContainer">
+    <EntitySet Name="IRDs" EntityType="BRDBModel.Store.IRDs" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="VATs" EntityType="BRDBModel.Store.VATs" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="NICs" EntityType="BRDBModel.Store.NICs" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="StatsBRSecondaries" EntityType="BRDBModel.Store.StatsBRSecondaries" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Contacts" EntityType="BRDBModel.Store.Contacts" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="StatsBRPrimaries" EntityType="BRDBModel.Store.StatsBRPrimaries" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="IRDVAT" Association="BRDBModel.Store.IRDVAT">
+      <End Role="IRD" EntitySet="IRDs" />
+      <End Role="VAT" EntitySet="VATs" />
+    </AssociationSet>
+    <AssociationSet Name="IRDNIC" Association="BRDBModel.Store.IRDNIC">
+      <End Role="IRD" EntitySet="IRDs" />
+      <End Role="NIC" EntitySet="NICs" />
+    </AssociationSet>
+    <AssociationSet Name="IRDStatsBR" Association="BRDBModel.Store.IRDStatsBR">
+      <End Role="IRD" EntitySet="IRDs" />
+      <End Role="StatsBR" EntitySet="StatsBRSecondaries" />
+    </AssociationSet>
+    <AssociationSet Name="ContactStatsBR" Association="BRDBModel.Store.ContactStatsBR">
+      <End Role="Contact" EntitySet="Contacts" />
+      <End Role="StatsBR" EntitySet="StatsBRSecondaries" />
+    </AssociationSet>
+    <AssociationSet Name="StatsBRPrimaryStatsBRSecondary" Association="BRDBModel.Store.StatsBRPrimaryStatsBRSecondary">
+      <End Role="StatsBRPrimary" EntitySet="StatsBRPrimaries" />
+      <End Role="StatsBRSecondary" EntitySet="StatsBRSecondaries" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="IRDs">
+    <Key>
+      <PropertyRef Name="IrdNum" />
+    </Key>
+    <Property Name="IrdNum" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="TradeName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="MailingAddress" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="MailingCity" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="PhoneNumber" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="FaxNumber" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Email" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="ValTaxSupply" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="PrimaryIsic" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="SecondaryIsic" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="TaxSupStartDate" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="LegalStatus" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Representative" Type="nvarchar(max)" Nullable="true" />
+  </EntityType>
+  <EntityType Name="VATs">
+    <Key>
+      <PropertyRef Name="VatNum" />
+      <PropertyRef Name="IrdNum" />
+    </Key>
+    <Property Name="VatNum" Type="int" Nullable="false" />
+    <Property Name="IrdNum" Type="int" Nullable="false" />
+    <Property Name="Year" Type="int" Nullable="true" />
+    <Property Name="Month" Type="int" Nullable="true" />
+    <Property Name="StandardRatedSupplies" Type="float" Nullable="true" />
+    <Property Name="Hotel" Type="float" Nullable="true" />
+    <Property Name="ZeroRatedSupplies" Type="float" Nullable="true" />
+    <Property Name="ExemptSupplies" Type="float" Nullable="true" />
+    <Property Name="TotalSupplies" Type="float" Nullable="true" />
+    <Property Name="TotalOutputTax" Type="float" Nullable="true" />
+  </EntityType>
+  <EntityType Name="NICs">
+    <Key>
+      <PropertyRef Name="NicNum" />
+    </Key>
+    <Property Name="NicNum" Type="int" Nullable="false" />
+    <Property Name="IrdNum" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Name" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="RegistrarOfCompNum" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="TradeName" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="AddressLine1" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="AddressLine2" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="District" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Location" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Phone" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Email" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="DateOfRegistration" Type="datetime" Nullable="true" />
+    <Property Name="NoOfEmployees" Type="int" Nullable="true" />
+    <Property Name="TotalContributions" Type="float" Nullable="true" />
+    <Property Name="Sector" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="NatureOfBusiness" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="IRD_IrdNum" Type="int" Nullable="true" />
+  </EntityType>
+  <EntityType Name="StatsBRSecondaries">
+    <Key>
+      <PropertyRef Name="StatsNum" />
+    </Key>
+    <Property Name="StatsNum" Type="int" Nullable="false" />
+    <Property Name="IrdNum" Type="int" Nullable="false" />
+    <Property Name="NicNum" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="RegNum" Type="int" Nullable="true" />
+    <Property Name="VatNum" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="ParentStatsNum" Type="int" Nullable="true" />
+    <Property Name="EnterpriseStatsNum" Type="int" Nullable="true" />
+    <Property Name="EstabStatsNum" Type="int" Nullable="true" />
+    <Property Name="TaxAccountNum" Type="int" Nullable="true" />
+    <Property Name="TaxIDNum" Type="int" Nullable="true" />
+    <Property Name="EnterpriseFlag" Type="bit" Nullable="true" />
+    <Property Name="EstablishmentFlag" Type="bit" Nullable="true" />
+    <Property Name="RegisteredName" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="TradeName" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="OperationalAddress" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="OperatingRevenue" Type="float" Nullable="true" />
+    <Property Name="LegalStatus" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="OperationalStatus" Type="bit" Nullable="true" />
+    <Property Name="ISIC" Type="int" Nullable="true" />
+    <Property Name="NumOfEmployees" Type="int" Nullable="true" />
+    <Property Name="NumOfWageEarners" Type="int" Nullable="true" />
+    <Property Name="NumSalariedEmp" Type="int" Nullable="true" />
+    <Property Name="TotalNicContribution" Type="float" Nullable="true" />
+    <Property Name="IRD_IrdNum" Type="int" Nullable="true" />
+  </EntityType>
+  <EntityType Name="Contacts">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StatsNum" Type="int" Nullable="false" />
+    <Property Name="BuildingNum" Type="int" Nullable="true" />
+    <Property Name="Area" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="District" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Street" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="POBox" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Phone1" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Phone2" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Fax" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Email1" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Email2" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="Active" Type="varbinary(max)" Nullable="true" />
+  </EntityType>
+  <EntityType Name="StatsBRPrimaries">
+    <Key>
+      <PropertyRef Name="StatsNum" />
+    </Key>
+    <Property Name="StatsNum" Type="int" Nullable="false" />
+    <Property Name="EDNum" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="BusinessType" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="SecondaryActivity" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="PrimaryActivity" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="PercentageForeignOwned" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="ForeignPresence" Type="bit" Nullable="true" />
+    <Property Name="Sector" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="ContactPerson" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="FormType" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="LastUpdated" Type="datetime" Nullable="true" />
+    <Property Name="DistrictCode" Type="nvarchar(max)" Nullable="true" />
+    <Property Name="SettlementCode" Type="nvarchar(max)" Nullable="true" />
+  </EntityType>
+  <Association Name="IRDVAT">
+    <End Role="IRD" Type="BRDBModel.Store.IRDs" Multiplicity="1" />
+    <End Role="VAT" Type="BRDBModel.Store.VATs" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="IRD">
+        <PropertyRef Name="IrdNum" />
+      </Principal>
+      <Dependent Role="VAT">
+        <PropertyRef Name="IrdNum" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="IRDNIC">
+    <End Role="IRD" Type="BRDBModel.Store.IRDs" Multiplicity="0..1" />
+    <End Role="NIC" Type="BRDBModel.Store.NICs" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="IRD">
+        <PropertyRef Name="IrdNum" />
+      </Principal>
+      <Dependent Role="NIC">
+        <PropertyRef Name="IRD_IrdNum" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="IRDStatsBR">
+    <End Role="IRD" Type="BRDBModel.Store.IRDs" Multiplicity="0..1" />
+    <End Role="StatsBR" Type="BRDBModel.Store.StatsBRSecondaries" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="IRD">
+        <PropertyRef Name="IrdNum" />
+      </Principal>
+      <Dependent Role="StatsBR">
+        <PropertyRef Name="IRD_IrdNum" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="ContactStatsBR">
+    <End Role="Contact" Type="BRDBModel.Store.Contacts" Multiplicity="*" />
+    <End Role="StatsBR" Type="BRDBModel.Store.StatsBRSecondaries" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="StatsBR">
+        <PropertyRef Name="StatsNum" />
+      </Principal>
+      <Dependent Role="Contact">
+        <PropertyRef Name="StatsNum" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="StatsBRPrimaryStatsBRSecondary">
+    <End Role="StatsBRPrimary" Type="BRDBModel.Store.StatsBRPrimaries" Multiplicity="0..1" />
+    <End Role="StatsBRSecondary" Type="BRDBModel.Store.StatsBRSecondaries" Multiplicity="1" />
+    <ReferentialConstraint>
+      <Principal Role="StatsBRSecondary">
+        <PropertyRef Name="StatsNum" />
+      </Principal>
+      <Dependent Role="StatsBRPrimary">
+        <PropertyRef Name="StatsNum" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

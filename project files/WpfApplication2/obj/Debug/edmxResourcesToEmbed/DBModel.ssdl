@@ -1,0 +1,608 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BRDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Business">
+    <Key>
+      <PropertyRef Name="StatisticalNumber" />
+    </Key>
+    <Property Name="StatisticalNumber" Type="nchar" MaxLength="9" Nullable="false" />
+    <Property Name="LegalName" Type="nvarchar" MaxLength="128" />
+    <Property Name="OperationalName" Type="nvarchar" MaxLength="128" />
+    <Property Name="Address" Type="nvarchar" MaxLength="128" />
+    <Property Name="District" Type="nvarchar" MaxLength="128" />
+    <Property Name="PhoneNumber" Type="nvarchar" MaxLength="15" />
+    <Property Name="BusinessTypeCode" Type="tinyint" Nullable="false" />
+    <Property Name="BusinessStatusCode" Type="tinyint" Nullable="false" />
+    <Property Name="Revenue" Type="int" />
+    <Property Name="RevenueSource" Type="int" />
+    <Property Name="RevenueDate" Type="date" />
+    <Property Name="NumberOfEmployees" Type="int" />
+    <Property Name="NumberOfEmployeesSource" Type="int" />
+    <Property Name="NumberOfEmployeesDate" Type="date" />
+    <Property Name="NumberOfSalariedEmployees" Type="int" />
+    <Property Name="NumberOfSalariedEmployeesSource" Type="int" />
+    <Property Name="NumberOfSalariedEmployeesDate" Type="date" />
+    <Property Name="Sales" Type="int" />
+    <Property Name="SalesSource" Type="int" />
+    <Property Name="SalesDate" Type="date" />
+    <Property Name="Wages" Type="int" />
+    <Property Name="WagesSource" Type="int" />
+    <Property Name="WagesDate" Type="date" />
+    <Property Name="ISIC" Type="nchar" MaxLength="4" />
+    <Property Name="ISICSource" Type="int" />
+    <Property Name="ISICDate" Type="date" />
+    <Property Name="SectorCode" Type="nchar" MaxLength="4" />
+    <Property Name="LastUserIdUpdated" Type="int" Nullable="false" />
+    <Property Name="LastUpdateDate" Type="date" />
+  </EntityType>
+  <EntityType Name="BusinessLog">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="StatisticalNumber" Type="nchar" MaxLength="9" Nullable="false" />
+    <Property Name="LogDate" Type="datetime" Nullable="false" />
+    <Property Name="LogUpdateSource" Type="int" Nullable="false" />
+    <Property Name="LegalName" Type="nvarchar" MaxLength="128" />
+    <Property Name="OperationalName" Type="nvarchar" MaxLength="128" />
+    <Property Name="Address" Type="nvarchar" MaxLength="128" />
+    <Property Name="District" Type="nvarchar" MaxLength="128" />
+    <Property Name="PhoneNumber" Type="nvarchar" MaxLength="15" />
+    <Property Name="BusinessTypeCode" Type="tinyint" Nullable="false" />
+    <Property Name="BusinessStatusCode" Type="tinyint" Nullable="false" />
+    <Property Name="Revenue" Type="int" />
+    <Property Name="RevenueSource" Type="int" />
+    <Property Name="RevenueDate" Type="date" />
+    <Property Name="NumberOfEmployees" Type="int" />
+    <Property Name="NumberOfEmployeesSource" Type="int" />
+    <Property Name="NumberOfEmployeesDate" Type="date" />
+    <Property Name="NumberOfSalariedEmployees" Type="int" />
+    <Property Name="NumberOfSalariedEmployeesSource" Type="int" />
+    <Property Name="NumberOfSalariedEmployeesDate" Type="date" />
+    <Property Name="Sales" Type="int" />
+    <Property Name="SalesSource" Type="int" />
+    <Property Name="SalesDate" Type="date" />
+    <Property Name="Wages" Type="int" />
+    <Property Name="WagesSource" Type="int" />
+    <Property Name="WagesDate" Type="date" />
+    <Property Name="ISIC" Type="nchar" MaxLength="4" />
+    <Property Name="ISICSource" Type="int" />
+    <Property Name="ISICDate" Type="date" />
+    <Property Name="UserId" Type="nvarchar" MaxLength="128" />
+    <Property Name="ActionCode" Type="tinyint" />
+  </EntityType>
+  <EntityType Name="BusinessStatus">
+    <Key>
+      <PropertyRef Name="BusinessStatusCode" />
+    </Key>
+    <Property Name="BusinessStatusCode" Type="tinyint" Nullable="false" />
+    <Property Name="Label" Type="nvarchar" MaxLength="128" />
+    <Property Name="LongDescription" Type="text" />
+  </EntityType>
+  <EntityType Name="BusinessType">
+    <Key>
+      <PropertyRef Name="BusinessTypeCode" />
+    </Key>
+    <Property Name="BusinessTypeCode" Type="tinyint" Nullable="false" />
+    <Property Name="Label" Type="varchar" MaxLength="128" />
+    <Property Name="LongDescription" Type="text" />
+  </EntityType>
+  <EntityType Name="Contact">
+    <Key>
+      <PropertyRef Name="StatisticalNumber" />
+    </Key>
+    <Property Name="StatisticalNumber" Type="nchar" MaxLength="9" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="128" />
+    <Property Name="District" Type="nvarchar" MaxLength="128" />
+    <Property Name="Street" Type="nvarchar" MaxLength="128" />
+    <Property Name="POBox" Type="nvarchar" MaxLength="64" />
+    <Property Name="PhoneNumber1" Type="nvarchar" MaxLength="15" />
+    <Property Name="PhoneNumber2" Type="nvarchar" MaxLength="15" />
+    <Property Name="FaxNumber" Type="nvarchar" MaxLength="15" />
+    <Property Name="EmailAddress1" Type="nvarchar" MaxLength="320" />
+    <Property Name="EmailAddress2" Type="nvarchar" MaxLength="320" />
+  </EntityType>
+  <EntityType Name="LOGIN">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserSurname" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LoginName" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="LoginPassword" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="UserEmailAddress" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="OptionalBusinessAttributes">
+    <Key>
+      <PropertyRef Name="StatisticalNumber" />
+    </Key>
+    <Property Name="StatisticalNumber" Type="nchar" MaxLength="9" Nullable="false" />
+    <Property Name="ISCO" Type="nchar" MaxLength="4" />
+  </EntityType>
+  <EntityType Name="Sector">
+    <Key>
+      <PropertyRef Name="SectorCode" />
+    </Key>
+    <Property Name="SectorCode" Type="nchar" MaxLength="4" Nullable="false" />
+    <Property Name="Label" Type="nchar" MaxLength="30" />
+    <Property Name="Description" Type="text" />
+  </EntityType>
+  <EntityType Name="StatisticalStructure">
+    <Key>
+      <PropertyRef Name="ChildStatisticalNumber" />
+    </Key>
+    <Property Name="ChildStatisticalNumber" Type="nchar" MaxLength="9" Nullable="false" />
+    <Property Name="ParentStatisticalNumber" Type="nchar" MaxLength="9" Nullable="false" />
+  </EntityType>
+  <EntityType Name="ExternalKeys">
+    <Key>
+      <PropertyRef Name="StatisticalNumber" />
+    </Key>
+    <Property Name="StatisticalNumber" Type="nchar" MaxLength="9" Nullable="false" />
+    <Property Name="VATNumber" Type="nchar" MaxLength="8" />
+    <Property Name="NICNumber" Type="nchar" MaxLength="5" />
+    <Property Name="IRDNumber" Type="nchar" MaxLength="8" />
+    <Property Name="RegistrarNumber" Type="nchar" MaxLength="8" />
+  </EntityType>
+  <EntityType Name="IRD">
+    <Key>
+      <PropertyRef Name="IRDNumber" />
+    </Key>
+    <Property Name="IRDNumber" Type="nchar" MaxLength="8" Nullable="false" />
+    <Property Name="Year" Type="nchar" MaxLength="4" />
+    <Property Name="Name" Type="nvarchar" MaxLength="128" />
+    <Property Name="TradeName" Type="nvarchar" MaxLength="128" />
+    <Property Name="MailingAddress" Type="nvarchar" MaxLength="128" />
+    <Property Name="MailingCity" Type="nvarchar" MaxLength="128" />
+    <Property Name="PhoneNumber" Type="nvarchar" MaxLength="15" />
+    <Property Name="FaxNumber" Type="nvarchar" MaxLength="15" />
+    <Property Name="EmailAddress" Type="nvarchar" MaxLength="320" />
+    <Property Name="ValTaxSupply" Type="int" />
+    <Property Name="Primary_ISIC" Type="nchar" MaxLength="4" />
+    <Property Name="Secondary_ISIC" Type="nchar" MaxLength="4" />
+    <Property Name="TaxSuppStartDate" Type="date" />
+    <Property Name="LegalStatus" Type="tinyint" />
+    <Property Name="Representative" Type="nvarchar" MaxLength="128" />
+  </EntityType>
+  <EntityType Name="IRDLog">
+    <Key>
+      <PropertyRef Name="IRDNumber" />
+      <PropertyRef Name="LogDate" />
+    </Key>
+    <Property Name="IRDNumber" Type="nchar" MaxLength="8" Nullable="false" />
+    <Property Name="LogDate" Type="date" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="128" />
+    <Property Name="TradeName" Type="nvarchar" MaxLength="128" />
+    <Property Name="MailingAddress" Type="nvarchar" MaxLength="128" />
+    <Property Name="MailingCity" Type="nvarchar" MaxLength="128" />
+    <Property Name="PhoneNumber" Type="nvarchar" MaxLength="15" />
+    <Property Name="FaxNumber" Type="nvarchar" MaxLength="15" />
+    <Property Name="EmailAddress" Type="nvarchar" MaxLength="320" />
+    <Property Name="ValTaxSupply" Type="int" />
+    <Property Name="Primary_ISIC" Type="nchar" MaxLength="4" />
+    <Property Name="Secondary_ISIC" Type="nchar" MaxLength="4" />
+    <Property Name="TaxSuppStartDate" Type="date" />
+    <Property Name="LegalStatus" Type="tinyint" />
+    <Property Name="Representative" Type="nvarchar" MaxLength="128" />
+  </EntityType>
+  <EntityType Name="NIC">
+    <Key>
+      <PropertyRef Name="NICNumber" />
+    </Key>
+    <Property Name="NICNumber" Type="nchar" MaxLength="5" Nullable="false" />
+    <Property Name="Year" Type="nchar" MaxLength="4" />
+    <Property Name="Name" Type="nvarchar" MaxLength="128" />
+    <Property Name="RegistrarOfCompNum" Type="nchar" MaxLength="8" />
+    <Property Name="TradeName" Type="nvarchar" MaxLength="128" />
+    <Property Name="AddressLine1" Type="nvarchar" MaxLength="128" />
+    <Property Name="AddressLine2" Type="nvarchar" MaxLength="128" />
+    <Property Name="District" Type="nvarchar" MaxLength="128" />
+    <Property Name="Location" Type="nvarchar" MaxLength="128" />
+    <Property Name="PhoneNumber" Type="nvarchar" MaxLength="15" />
+    <Property Name="EmailAddress" Type="nvarchar" MaxLength="320" />
+    <Property Name="DateOfRegistration" Type="date" />
+    <Property Name="NumberOfEmployees" Type="int" />
+    <Property Name="TotalContributions" Type="int" />
+    <Property Name="Sector" Type="tinyint" />
+    <Property Name="NatureOfBusiness" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="NICLog">
+    <Key>
+      <PropertyRef Name="NICNumber" />
+      <PropertyRef Name="LogDate" />
+    </Key>
+    <Property Name="NICNumber" Type="nchar" MaxLength="5" Nullable="false" />
+    <Property Name="LogDate" Type="date" Nullable="false" />
+    <Property Name="Year" Type="nchar" MaxLength="4" />
+    <Property Name="Name" Type="nvarchar" MaxLength="128" />
+    <Property Name="RegistrarOfCompNum" Type="nchar" MaxLength="8" />
+    <Property Name="TradeName" Type="nvarchar" MaxLength="128" />
+    <Property Name="AddressLine1" Type="nvarchar" MaxLength="128" />
+    <Property Name="AddressLine2" Type="nvarchar" MaxLength="128" />
+    <Property Name="District" Type="nvarchar" MaxLength="128" />
+    <Property Name="Location" Type="nvarchar" MaxLength="128" />
+    <Property Name="PhoneNumber" Type="nvarchar" MaxLength="15" />
+    <Property Name="EmailAddress" Type="nvarchar" MaxLength="320" />
+    <Property Name="DateOfRegistration" Type="date" />
+    <Property Name="NumberOfEmployees" Type="int" />
+    <Property Name="TotalContributions" Type="int" />
+    <Property Name="Sector" Type="tinyint" />
+    <Property Name="NatureOfBusiness" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="Registrar">
+    <Key>
+      <PropertyRef Name="RegistrarNumber" />
+    </Key>
+    <Property Name="RegistrarNumber" Type="nchar" MaxLength="8" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="128" />
+    <Property Name="Address" Type="nvarchar" MaxLength="128" />
+    <Property Name="CreationDate" Type="date" />
+  </EntityType>
+  <EntityType Name="RegistrarLog">
+    <Key>
+      <PropertyRef Name="RegistrarNumber" />
+      <PropertyRef Name="LogDate" />
+    </Key>
+    <Property Name="RegistrarNumber" Type="nchar" MaxLength="8" Nullable="false" />
+    <Property Name="LogDate" Type="date" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="128" />
+    <Property Name="Address" Type="nvarchar" MaxLength="128" />
+    <Property Name="CreationDate" Type="date" />
+  </EntityType>
+  <EntityType Name="VAT">
+    <Key>
+      <PropertyRef Name="VATNumber" />
+    </Key>
+    <Property Name="VATNumber" Type="nchar" MaxLength="8" Nullable="false" />
+    <Property Name="Year" Type="nchar" MaxLength="4" Nullable="false" />
+    <Property Name="Month" Type="nchar" MaxLength="2" Nullable="false" />
+    <Property Name="StandardRatedSupplies" Type="nvarchar" MaxLength="128" />
+    <Property Name="Hotel" Type="nvarchar" MaxLength="128" />
+    <Property Name="ZeroRatedSupplies" Type="nvarchar" MaxLength="128" />
+    <Property Name="ExemptSupplies" Type="nvarchar" MaxLength="128" />
+    <Property Name="TotalSupplies" Type="nvarchar" MaxLength="128" />
+    <Property Name="TotalOutputTax" Type="nvarchar" MaxLength="128" />
+  </EntityType>
+  <EntityType Name="VATLog">
+    <Key>
+      <PropertyRef Name="VATNumber" />
+      <PropertyRef Name="LogDate" />
+    </Key>
+    <Property Name="VATNumber" Type="nchar" MaxLength="8" Nullable="false" />
+    <Property Name="LogDate" Type="date" Nullable="false" />
+    <Property Name="Year" Type="nchar" MaxLength="4" />
+    <Property Name="Month" Type="nchar" MaxLength="2" />
+    <Property Name="StandardRatedSupplies" Type="nvarchar" MaxLength="128" />
+    <Property Name="Hotel" Type="nvarchar" MaxLength="128" />
+    <Property Name="ZeroRatedSupplies" Type="nvarchar" MaxLength="128" />
+    <Property Name="ExemptSupplies" Type="nvarchar" MaxLength="128" />
+    <Property Name="TotalSupplies" Type="nvarchar" MaxLength="128" />
+    <Property Name="TotalOutputTax" Type="nvarchar" MaxLength="128" />
+  </EntityType>
+  <Association Name="FK_Business_BusinessStatus">
+    <End Role="BusinessStatus" Type="Self.BusinessStatus" Multiplicity="1" />
+    <End Role="Business" Type="Self.Business" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BusinessStatus">
+        <PropertyRef Name="BusinessStatusCode" />
+      </Principal>
+      <Dependent Role="Business">
+        <PropertyRef Name="BusinessStatusCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Business_BusinessType">
+    <End Role="BusinessType" Type="Self.BusinessType" Multiplicity="1" />
+    <End Role="Business" Type="Self.Business" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BusinessType">
+        <PropertyRef Name="BusinessTypeCode" />
+      </Principal>
+      <Dependent Role="Business">
+        <PropertyRef Name="BusinessTypeCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Business_LOGIN">
+    <End Role="LOGIN" Type="Self.LOGIN" Multiplicity="1" />
+    <End Role="Business" Type="Self.Business" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOGIN">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Business">
+        <PropertyRef Name="LastUserIdUpdated" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Business_Sector">
+    <End Role="Sector" Type="Self.Sector" Multiplicity="0..1" />
+    <End Role="Business" Type="Self.Business" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sector">
+        <PropertyRef Name="SectorCode" />
+      </Principal>
+      <Dependent Role="Business">
+        <PropertyRef Name="SectorCode" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_BusinessLog_Business">
+    <End Role="Business" Type="Self.Business" Multiplicity="1" />
+    <End Role="BusinessLog" Type="Self.BusinessLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="StatisticalNumber" />
+      </Principal>
+      <Dependent Role="BusinessLog">
+        <PropertyRef Name="StatisticalNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Contact_Business">
+    <End Role="Business" Type="Self.Business" Multiplicity="1" />
+    <End Role="Contact" Type="Self.Contact" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="StatisticalNumber" />
+      </Principal>
+      <Dependent Role="Contact">
+        <PropertyRef Name="StatisticalNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ExternalKeys_Business">
+    <End Role="Business" Type="Self.Business" Multiplicity="1" />
+    <End Role="ExternalKeys" Type="Self.ExternalKeys" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="StatisticalNumber" />
+      </Principal>
+      <Dependent Role="ExternalKeys">
+        <PropertyRef Name="StatisticalNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ExternalKeys_IRD">
+    <End Role="IRD" Type="Self.IRD" Multiplicity="0..1" />
+    <End Role="ExternalKeys" Type="Self.ExternalKeys" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="IRD">
+        <PropertyRef Name="IRDNumber" />
+      </Principal>
+      <Dependent Role="ExternalKeys">
+        <PropertyRef Name="IRDNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ExternalKeys_NIC">
+    <End Role="NIC" Type="Self.NIC" Multiplicity="0..1" />
+    <End Role="ExternalKeys" Type="Self.ExternalKeys" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NIC">
+        <PropertyRef Name="NICNumber" />
+      </Principal>
+      <Dependent Role="ExternalKeys">
+        <PropertyRef Name="NICNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ExternalKeys_Registrar">
+    <End Role="Registrar" Type="Self.Registrar" Multiplicity="0..1" />
+    <End Role="ExternalKeys" Type="Self.ExternalKeys" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Registrar">
+        <PropertyRef Name="RegistrarNumber" />
+      </Principal>
+      <Dependent Role="ExternalKeys">
+        <PropertyRef Name="RegistrarNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_ExternalKeys_VAT">
+    <End Role="VAT" Type="Self.VAT" Multiplicity="0..1" />
+    <End Role="ExternalKeys" Type="Self.ExternalKeys" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="VAT">
+        <PropertyRef Name="VATNumber" />
+      </Principal>
+      <Dependent Role="ExternalKeys">
+        <PropertyRef Name="VATNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IRDLog_IRD">
+    <End Role="IRD" Type="Self.IRD" Multiplicity="1" />
+    <End Role="IRDLog" Type="Self.IRDLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="IRD">
+        <PropertyRef Name="IRDNumber" />
+      </Principal>
+      <Dependent Role="IRDLog">
+        <PropertyRef Name="IRDNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NICLog_NIC">
+    <End Role="NIC" Type="Self.NIC" Multiplicity="1" />
+    <End Role="NICLog" Type="Self.NICLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NIC">
+        <PropertyRef Name="NICNumber" />
+      </Principal>
+      <Dependent Role="NICLog">
+        <PropertyRef Name="NICNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OptionalBusinessAttributes_Business">
+    <End Role="Business" Type="Self.Business" Multiplicity="1" />
+    <End Role="OptionalBusinessAttributes" Type="Self.OptionalBusinessAttributes" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="StatisticalNumber" />
+      </Principal>
+      <Dependent Role="OptionalBusinessAttributes">
+        <PropertyRef Name="StatisticalNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RegistrarLog_Registrar">
+    <End Role="Registrar" Type="Self.Registrar" Multiplicity="1" />
+    <End Role="RegistrarLog" Type="Self.RegistrarLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Registrar">
+        <PropertyRef Name="RegistrarNumber" />
+      </Principal>
+      <Dependent Role="RegistrarLog">
+        <PropertyRef Name="RegistrarNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_StatisticalStructure_Business">
+    <End Role="Business" Type="Self.Business" Multiplicity="1" />
+    <End Role="StatisticalStructure" Type="Self.StatisticalStructure" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Business">
+        <PropertyRef Name="StatisticalNumber" />
+      </Principal>
+      <Dependent Role="StatisticalStructure">
+        <PropertyRef Name="ChildStatisticalNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_VATLog_VAT">
+    <End Role="VAT" Type="Self.VAT" Multiplicity="1" />
+    <End Role="VATLog" Type="Self.VATLog" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="VAT">
+        <PropertyRef Name="VATNumber" />
+      </Principal>
+      <Dependent Role="VATLog">
+        <PropertyRef Name="VATNumber" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="ExtractUniverse" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="Core">
+    <Parameter Name="ReferencePeriod" Type="char" Mode="In" />
+  </Function>
+  <Function Name="fn_diagramobjects" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="int" />
+  <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="BRDBModelStoreContainer">
+    <EntitySet Name="Business" EntityType="Self.Business" Schema="Core" store:Type="Tables" />
+    <EntitySet Name="BusinessLog" EntityType="Self.BusinessLog" Schema="Core" store:Type="Tables" />
+    <EntitySet Name="BusinessStatus" EntityType="Self.BusinessStatus" Schema="Core" store:Type="Tables" />
+    <EntitySet Name="BusinessType" EntityType="Self.BusinessType" Schema="Core" store:Type="Tables" />
+    <EntitySet Name="Contact" EntityType="Self.Contact" Schema="Core" store:Type="Tables" />
+    <EntitySet Name="LOGIN" EntityType="Self.LOGIN" Schema="Core" store:Type="Tables" />
+    <EntitySet Name="OptionalBusinessAttributes" EntityType="Self.OptionalBusinessAttributes" Schema="Core" store:Type="Tables" />
+    <EntitySet Name="Sector" EntityType="Self.Sector" Schema="Core" store:Type="Tables" />
+    <EntitySet Name="StatisticalStructure" EntityType="Self.StatisticalStructure" Schema="Core" store:Type="Tables" />
+    <EntitySet Name="ExternalKeys" EntityType="Self.ExternalKeys" Schema="External" store:Type="Tables" />
+    <EntitySet Name="IRD" EntityType="Self.IRD" Schema="External" store:Type="Tables" />
+    <EntitySet Name="IRDLog" EntityType="Self.IRDLog" Schema="External" store:Type="Tables" />
+    <EntitySet Name="NIC" EntityType="Self.NIC" Schema="External" store:Type="Tables" />
+    <EntitySet Name="NICLog" EntityType="Self.NICLog" Schema="External" store:Type="Tables" />
+    <EntitySet Name="Registrar" EntityType="Self.Registrar" Schema="External" store:Type="Tables" />
+    <EntitySet Name="RegistrarLog" EntityType="Self.RegistrarLog" Schema="External" store:Type="Tables" />
+    <EntitySet Name="VAT" EntityType="Self.VAT" Schema="External" store:Type="Tables" />
+    <EntitySet Name="VATLog" EntityType="Self.VATLog" Schema="External" store:Type="Tables" />
+    <AssociationSet Name="FK_Business_BusinessStatus" Association="Self.FK_Business_BusinessStatus">
+      <End Role="BusinessStatus" EntitySet="BusinessStatus" />
+      <End Role="Business" EntitySet="Business" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Business_BusinessType" Association="Self.FK_Business_BusinessType">
+      <End Role="BusinessType" EntitySet="BusinessType" />
+      <End Role="Business" EntitySet="Business" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Business_LOGIN" Association="Self.FK_Business_LOGIN">
+      <End Role="LOGIN" EntitySet="LOGIN" />
+      <End Role="Business" EntitySet="Business" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Business_Sector" Association="Self.FK_Business_Sector">
+      <End Role="Sector" EntitySet="Sector" />
+      <End Role="Business" EntitySet="Business" />
+    </AssociationSet>
+    <AssociationSet Name="FK_BusinessLog_Business" Association="Self.FK_BusinessLog_Business">
+      <End Role="Business" EntitySet="Business" />
+      <End Role="BusinessLog" EntitySet="BusinessLog" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Contact_Business" Association="Self.FK_Contact_Business">
+      <End Role="Business" EntitySet="Business" />
+      <End Role="Contact" EntitySet="Contact" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ExternalKeys_Business" Association="Self.FK_ExternalKeys_Business">
+      <End Role="Business" EntitySet="Business" />
+      <End Role="ExternalKeys" EntitySet="ExternalKeys" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ExternalKeys_IRD" Association="Self.FK_ExternalKeys_IRD">
+      <End Role="IRD" EntitySet="IRD" />
+      <End Role="ExternalKeys" EntitySet="ExternalKeys" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ExternalKeys_NIC" Association="Self.FK_ExternalKeys_NIC">
+      <End Role="NIC" EntitySet="NIC" />
+      <End Role="ExternalKeys" EntitySet="ExternalKeys" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ExternalKeys_Registrar" Association="Self.FK_ExternalKeys_Registrar">
+      <End Role="Registrar" EntitySet="Registrar" />
+      <End Role="ExternalKeys" EntitySet="ExternalKeys" />
+    </AssociationSet>
+    <AssociationSet Name="FK_ExternalKeys_VAT" Association="Self.FK_ExternalKeys_VAT">
+      <End Role="VAT" EntitySet="VAT" />
+      <End Role="ExternalKeys" EntitySet="ExternalKeys" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IRDLog_IRD" Association="Self.FK_IRDLog_IRD">
+      <End Role="IRD" EntitySet="IRD" />
+      <End Role="IRDLog" EntitySet="IRDLog" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NICLog_NIC" Association="Self.FK_NICLog_NIC">
+      <End Role="NIC" EntitySet="NIC" />
+      <End Role="NICLog" EntitySet="NICLog" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OptionalBusinessAttributes_Business" Association="Self.FK_OptionalBusinessAttributes_Business">
+      <End Role="Business" EntitySet="Business" />
+      <End Role="OptionalBusinessAttributes" EntitySet="OptionalBusinessAttributes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RegistrarLog_Registrar" Association="Self.FK_RegistrarLog_Registrar">
+      <End Role="Registrar" EntitySet="Registrar" />
+      <End Role="RegistrarLog" EntitySet="RegistrarLog" />
+    </AssociationSet>
+    <AssociationSet Name="FK_StatisticalStructure_Business" Association="Self.FK_StatisticalStructure_Business">
+      <End Role="Business" EntitySet="Business" />
+      <End Role="StatisticalStructure" EntitySet="StatisticalStructure" />
+    </AssociationSet>
+    <AssociationSet Name="FK_VATLog_VAT" Association="Self.FK_VATLog_VAT">
+      <End Role="VAT" EntitySet="VAT" />
+      <End Role="VATLog" EntitySet="VATLog" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
